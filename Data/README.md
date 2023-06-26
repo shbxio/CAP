@@ -5,7 +5,7 @@
 
 
 **2.** Then you will be redirected to another page in a new tab. Then, under the drop-down icon to the right of "Settings", select "Data Management" and choose the "Bulk Record Deletion" option.
-![dataMan](https://github.com/shbxio/CAP/assets/43991954/5477168f-d40e-41b9-bfba-c39c10880e3f)
+![dataMan1](https://github.com/shbxio/CAP/assets/43991954/70d5681d-3773-4187-9fb5-a01961332a91)
 
 
 **3.** Then press "New", which you can find in the upper left corner, and then press "Next". Under "Look for", find the table name you want to delete. In our case it is "CAP Emissions".
