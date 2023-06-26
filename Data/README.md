@@ -12,7 +12,7 @@
 ![bulkDelete](https://github.com/shbxio/CAP/assets/43991954/4b3c5dfc-2c11-4fc4-a86d-0d7c9caba947)
 
 
-**4.** After that, you should press "Next" again so that the deletion process will start automatically. 
+**4.** After that, you should press "Next" again so that the deletion process will start automatically. <br>
 **5.** To see only the jobs you created for the deletions, select "My Bulk Deletion System Jobs" under "View" at the top.
 ![recent](https://github.com/shbxio/CAP/assets/43991954/d553b9f5-a71e-4554-9d53-6cf621adaab4)
 
