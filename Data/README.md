@@ -48,6 +48,6 @@
 ![imports](https://github.com/shbxio/CAP/assets/43991954/ceff375c-55d7-4425-b48c-2a7db10d14da)
 
 
-**9.** If the word "Completed" appears under "Status Reason" and there are no errors or failures, you should follow the steps listed in the documentation of the "PBI" directory. After that, you should simply refresh the page where the app is in "Play" mode and you will see the updates made.
+**9.** If the word "Completed" appears under "Status Reason" and there are no errors or failures, you should follow the steps listed in the documentation of the "PBI" directory. After that, you should simply refresh the page where the app is in "Play" mode and you will see the updates made. <br>
 ![complete](https://github.com/shbxio/CAP/assets/43991954/dc785812-a411-49c0-bbfc-2bdea8b97127)
 
