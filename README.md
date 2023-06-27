@@ -1,12 +1,14 @@
 # CAP
-Climate Action Plan
+This project is an open-source initiative aimed at creating a Climate Action Plan using Power BI, the Power Platform, and Microsoft Sustainability Manager. It's a venture that seeks to harness the power of these tools to address one of the most pressing issues of our time: climate change.
 
-This project is a unique open-source initiative focused on creating a Climate Action Plan using Power BI, the Power Platform, and Microsoft Sustainability Manager. It's not just a project, but a mission to leverage technology for the betterment of our environment.
+The solution provided here is available for download and can be used for your own purposes. It serves as a click-through demo to understand how the different components work together, or it can be used as a foundation for your own climate action initiatives. It's an excellent opportunity to explore the capabilities of these tools in the context of sustainability and contribute to the open-source community.
 
-The Climate Action Plan provided here is available for download and can be used for your own purposes. It serves as a click-through demo to understand how the different components work together, or it can be used as a foundation for your own environmental initiatives. This project is an excellent opportunity to explore the capabilities of these tools in the context of sustainability and climate action.
+This project is a work in progress, and I welcome contributions, feedback, and suggestions for improvement. Anyone interested in pushing the boundaries of what can be achieved with these tools in the fight against climate change is invited to participate.
 
-This project is a work in progress, and I welcome contributions, feedback, and suggestions for improvement. Anyone interested in using technology for climate action is invited to participate.
+I hope this project inspires and motivates you to explore and develop your own ideas for climate action. Remember, every contribution, no matter how small, can make a difference. Let's work together to create a more sustainable and resilient world.
 
-I hope this project inspires and motivates you to explore and develop your own ideas for climate action. Remember, every contribution, no matter how small, can make a difference. Let's work together to create a more sustainable and efficient world.
+If you want to know more or have any questions, feel free to check out our YouTube channel (https://www.youtube.com/@shbxio) or contact us at alex@shbx.io. We're always happy to engage with our community and answer any questions you might have.
 
-Thank you for visiting and supporting this project. Together, we can make a significant impact on our environment. Let's create a greener future together!
+Thank you for visiting and supporting this project. Together, we can make a significant impact on our planet's future. Let's create something great together!
+
+[OS CAP ENG.pdf](https://github.com/shbxio/CAP/files/11884272/OS.CAP.ENG.pdf)
