@@ -23,12 +23,12 @@
 
 **In this documentation you will learn how to import/overwrite the data in a DataVerse table.**
 
-**1.** First, log in to Power Apps and find the application whose data you want to modify. To find the application, select "Apps" which you will find on the left side of the page.
+**1.** First, log in to Power Apps and find the application whose data you want to modify. To find the application, select "Apps" which you will find on the left side of the page. <br>
 **2.** In our case, the application is called "Contoso Automotive" and you need to run it in "Play" mode. To do this, click on the three dots and select "Play".
 ![appPlay](https://github.com/shbxio/CAP/assets/43991954/7e579118-ab14-441b-8442-0f1dbfb56f4d)
 
 
-**3.** After successfully running the app in "Play" mode, we will find the tables on the left side of the page under "Climate Action Planning".
+**3.** After successfully running the app in "Play" mode, we will find the tables on the left side of the page under "Climate Action Planning". <br>
 **4.** In our case, we want to import/overwrite the data in the "CAP Emissions" table. 
 ![capEm](https://github.com/shbxio/CAP/assets/43991954/f82a5f17-6132-47fe-aa64-31d1791cbadd)
 
