@@ -1,4 +1,4 @@
-**In this documentation you will learn how to delete all stored data in a table.**
+# 1. In this documentation you will learn how to delete all stored data in a table
 
 **1.** First, log in to Power Apps (https://make.powerapps.com) and select the "Advanced Settings" option under the Settings icon.
 ![advancedSett](https://github.com/shbxio/CAP/assets/43991954/43ccf942-6bcf-4980-874d-cfa950669ee8)
@@ -21,7 +21,7 @@
 <br> <br> <br> <br>
 
 
-**In this documentation you will learn how to import/overwrite the data in a DataVerse table.**
+# 2. In this documentation you will learn how to import/overwrite the data in a DataVerse table
 
 **1.** First, log in to Power Apps and find the application whose data you want to modify. To find the application, select "Apps" which you will find on the left side of the page. <br>
 **2.** In our case, the application is called "Contoso Automotive" and you need to run it in "Play" mode. To do this, click on the three dots and select "Play".
