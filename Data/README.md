@@ -18,3 +18,13 @@
 
 
 **6.** If the "Status Reason" is "Succeeded", all the data in the table has been successfully deleted.
+<br> <br> <br> <br>
+
+
+**In this documentation you will learn how to import/overwrite the data in a DataVerse table.**
+
+- First, log in to Power Apps and find the application whose data you want to modify. To find the application, select "Apps" which you will find on the left side of the page.
+
+- In our case, the application is called "Contoso Automotive" and you need to run it in "Play" mode. To do this, click on the three dots and select "Play".
+
+- After successfully running the app in "Play" mode, we will find the tables on the left side of the page under "Climate Action Planning".
