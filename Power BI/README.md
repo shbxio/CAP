@@ -12,7 +12,7 @@
 
 <br /> <br />
 
-   **3.1 At the top at "Manage Parameters" you need to log in with your Power Apps account so that PBI Desktop knows exactly which account to transfer the data from the Dataverse.**
+   **3.1** At the top at "Manage Parameters" you need to log in with your Power Apps account so that PBI Desktop knows exactly which account to transfer the data from the Dataverse.
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![manageParameters](https://github.com/shbxio/CAP/assets/43991954/965f6d23-1826-4bf7-b175-9466b94d44db)
 
@@ -22,7 +22,7 @@
 
 <br /> <br />
 
-   **3.2 To connect, you need to enter the URL of your PowerApps account in the "Current Value" field. Here is how you can find the URL in your PowerApps account:**
+   **3.2** To connect, you need to enter the URL of your PowerApps account in the "Current Value" field. Here is how you can find the URL in your PowerApps account:
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![value](https://github.com/shbxio/CAP/assets/43991954/86e2bd0e-a7db-490b-a780-e6f631373c19)
 
@@ -62,6 +62,6 @@
 
 <br /> <br />
 
-   **8.1 Then press "Play", which will run the app in a new tab with the generated charts.**
+   **8.1** Then press "Play", which will run the app in a new tab with the generated charts.
     
 &nbsp;&nbsp;&nbsp;&nbsp; ![play](https://github.com/shbxio/CAP/assets/43991954/5cab2726-5fca-4afa-b8ff-7d564486d4db)
