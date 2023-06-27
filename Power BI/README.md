@@ -1,5 +1,4 @@
-**In this documentation you will learn how to visualize the data stored in the Dataverse.**
-<br /> <br /> 
+# In this documentation you will learn how to visualize the data stored in the Dataverse
 
 **1.** First, you need to download the Power BI Desktop to your PC. You can use the following link: https://www.microsoft.com/en-us/download/details.aspx?id=58494 
 
