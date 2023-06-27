@@ -29,7 +29,7 @@
 
 
 **3.** After successfully running the app in "Play" mode, we will find the tables on the left side of the page under "Climate Action Planning". <br>
-**4.** In our case, we want to import/overwrite the data in the "CAP Emissions" table. 
+**4.** In our case, we want to import/overwrite the data in the "CAP Emissions" table. <br>
 ![capEm](https://github.com/shbxio/CAP/assets/43991954/f82a5f17-6132-47fe-aa64-31d1791cbadd)
 
 
