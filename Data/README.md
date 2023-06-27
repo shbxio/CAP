@@ -33,3 +33,21 @@
 ![capEm](https://github.com/shbxio/CAP/assets/43991954/f82a5f17-6132-47fe-aa64-31d1791cbadd)
 
 
+**5.** Under "Export to Excel", select the "Open in Excel online" option. A pop-up window will then open and an Excel file will be displayed.
+![openexcel](https://github.com/shbxio/CAP/assets/43991954/81dac95e-ad17-4ece-83e8-364544054575)
+
+
+**6.** Here you can either import new data or overwrite existing data in the Excel file. After you have made all the changes, click "Save" and the changes will automatically be uploaded to the DataVerse "CAP Emissions" table.
+![excel](https://github.com/shbxio/CAP/assets/43991954/f8ab09ae-b31d-4290-8616-4e2b063eb594)
+
+	
+**7.** To track the process, click on "Track Process" that appears after you click "Save". 
+
+**8.** Another way to track the process is to go to "Advanced Settings". Select "Imports" under "Data Management." There you can also see how many successes/failures/errors were made from the total data processed.
+![dataMan1](https://github.com/shbxio/CAP/assets/43991954/68780ace-9e52-4805-8a9d-8c009d2f5e41)
+![imports](https://github.com/shbxio/CAP/assets/43991954/ceff375c-55d7-4425-b48c-2a7db10d14da)
+
+
+**9.** If the word "Completed" appears under "Status Reason" and there are no errors or failures, you should follow the steps listed in the documentation of the "PBI" directory. After that, you should simply refresh the page where the app is in "Play" mode and you will see the updates made.
+![complete](https://github.com/shbxio/CAP/assets/43991954/dc785812-a411-49c0-bbfc-2bdea8b97127)
+
