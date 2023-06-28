@@ -1,0 +1,30 @@
+[
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability Defra Emission Factors",
+        "UniqueName": "msdyn_SustainabilityEmissionFactorsDefraAnchor"
+    },
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability EPA 2022 Emission Factors",
+        "UniqueName": "msdyn_SustainabilityEmissionFactorsEPA2022Anchor"
+    },
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability IPCC Emission Factors",
+        "UniqueName": "msdyn_SustainabilityEmissionFactorsIPCCAnchor"
+    },
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability Data Model",
+        "UniqueName": "msdyn_SustainabilityDataModelAnchor"
+    },
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability EPA 2021 Emission Factors",
+        "UniqueName": "msdyn_SustainabilityEmissionFactorsEPA2021Anchor"
+    },
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability Water Data Model",
+        "UniqueName": "msdyn_SustainabilityWaterDataModelAnchor"
+    },
+    {
+        "FriendlyName": "Microsoft Cloud for Sustainability Waste Data Model",
+        "UniqueName": "msdyn_SustainabilityWasteDataModelAnchor"
+    }
+]

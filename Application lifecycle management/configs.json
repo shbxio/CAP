@@ -1,0 +1,11 @@
+{
+    "id": "h42q0428-0z19-ab6t-v831-g37y0lo6ns1l",
+    "name": "OpenSourceTest",
+    "solutions": [
+        "SHBXSustainabilitySolution", 
+        "SHBXEnergyModule", 
+        "SHBXEnergyDataModel", 
+        "SHBXCAPModule", 
+        "SHBXCAPDataModel"
+    ]
+}
