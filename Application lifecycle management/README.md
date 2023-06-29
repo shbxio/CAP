@@ -5,7 +5,7 @@
 - **configs.json:** This file contains the solutions for our demo as well as the configuration of the environment to upload the demo to. 
 - **applicationlist.json:** Contains all the applications that are required to run our demo.
 - **pp_installation.ps1:** This is the PowerShell script that uploads our solutions and applications to the environment.
-
+<br><br>
 
 **2.** The only file you need to edit is the "configs.json" file. There you need to enter the appropriate data for your environment. You should change the following 
 data:
@@ -17,13 +17,13 @@ data:
 Please note that each environment has its own "id". So first select your environment and enter the name in the variable "name". Then determine the ID for the selected environment and store it in the "id" variable.
 
 ![idandenv](https://github.com/shbxio/CAP/assets/43991954/e63c8d7e-7d87-4110-a769-7fa5cca791f0)
-
+<br>
 
 **3.** Once you have completed this step, all you need to do is run the script. This requires the following steps:
 - First, clone the entire project.
 - Then open the project via an IDE (for example Visual Studio Code).
 - To do this, go to the terminal in Visual Studio Code and navigate until you are in the "Application Lifecycle Management" directory. For example: cd '.\Application Lifecycle Management'
 - Finally, in the terminal, enter the path to the "pp_installation.ps1" file. For example: . 'C:\Users\yourname\Desktop\ALM-Guthub\pp_installation.ps1' 
-
+<br><br>
 **4.** The Powerhell script will run automatically, and a pop-up window appears in which you must enter your login information, including the environment that you specified in the configs.json file.
 
