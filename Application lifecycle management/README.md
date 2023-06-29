@@ -1,9 +1,5 @@
 # In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script.
-import copy from 'copy-text-to-clipboard';
 
-button.addEventListener('click', () => {
-	copy('🦄🌈');
-});
 **1.** There are 3 files in the "ALM" directory:
 
 - **configs.json:** This file contains the solutions for our demo as well as the configuration of the environment to upload the demo to. 
