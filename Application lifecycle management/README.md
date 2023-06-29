@@ -1,18 +1,18 @@
-In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script.
+# In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script.
 
-There are 3 files in the "ALM" directory:
+**There are 3 files in the "ALM" directory:**
 
-- configs.json: This file contains the solutions for our demo as well as the configuration of the environment to upload the demo to. 
-- applicationlist.json: Contains all the applications that are required to run our demo.
-- pp_installation.ps1: This is the PowerShell script that uploads our solutions and applications to the environment.
+- **configs.json:** This file contains the solutions for our demo as well as the configuration of the environment to upload the demo to. 
+- **applicationlist.json:** Contains all the applications that are required to run our demo.
+- **pp_installation.ps1:** This is the PowerShell script that uploads our solutions and applications to the environment.
 
 
 The only file you need to edit is the "configs.json" file. There you need to enter the appropriate data for your environment. You should change the following 
 data:
 
-- "id": The "id" variable contains the ID of the environment you want to upload the demo to. You will find it when you log in to Power Apps. In the image below, you can see that the "id" is in the Power Apps URL itself. For example, it has the following form: h42q0428-0z19-ab6t-v831-g37y0lo6ns1l".
+- **"id":** The "id" variable contains the ID of the environment you want to upload the demo to. You will find it when you log in to Power Apps. In the image below, you can see that the "id" is in the Power Apps URL itself. For example, it has the following form: h42q0428-0z19-ab6t-v831-g37y0lo6ns1l".
 
-- "name": The variable "name" contains the name of the environment. It can be found in the Power Apps. In the image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
+- **"name":** The variable "name" contains the name of the environment. It can be found in the Power Apps. In the image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
 
 ![idandenv](https://github.com/shbxio/CAP/assets/43991954/e63c8d7e-7d87-4110-a769-7fa5cca791f0)
 
