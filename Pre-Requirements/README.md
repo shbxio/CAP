@@ -35,7 +35,7 @@ Installing an IDE is necessary to run our script and install plugins. In our pro
 
 **Order of documentation:** 
 
-Please note the following order from top to bottom.
+Please follow the order below from top to bottom.
 
 1. [Pre-Requirements](https://github.com/shbxio/CAP/tree/main/Pre-Requirements)
 2. [Application lifecycle management](https://github.com/shbxio/CAP/tree/main/Application%20lifecycle%20management)
