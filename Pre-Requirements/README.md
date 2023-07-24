@@ -25,10 +25,14 @@ You can find out more at the following [link](https://learn.microsoft.com/en-us/
 <br /> <br />
 Unfortunately, Microsoft Sustainability Manager is not free, but there is an offer for a free 30-day trial. You can find out more at the following [link](https://learn.microsoft.com/en-us/industry/sustainability/trial-setup).
 
-**`5. Install IntelliJ`** <br />
-Installing an IDE is necessary to run our script and install plugins. In our project we used Intellij, so we recommend users to use Intellij as well and follow our documentation in ALM.
+**`5. Download Power BI Desktop`** <br />
+Power BI Desktop is a free Windows application developed by Microsoft as part of the Power BI suite of business analytics tools. You can find out more at the following [link](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-what-is-desktop). From the following [link](https://powerbi.microsoft.com/de-de/downloads/) you can download the Power BI Desktop.
 
-**`6. Excel (optional: only if you want to import your own data into DataVerse)`**
+**`6. Download IntelliJ`** <br />
+Installing an IDE is necessary to run our script and install plugins. In our project we used Intellij, so we recommend users to use Intellij as well and follow our documentation in [Application lifecycle management](https://github.com/shbxio/CAP/tree/main/Application%20lifecycle%20management). From the following [link](https://www.jetbrains.com/idea/download/?section=windows) you can download IntelliJ.
+
+**`7. Excel`**
+In our project we used Excel to import or export data from the DataVerse, so we recommend users to use Excel as well. From the following [link](https://www.microsoft.com/en-us/microsoft-365/excel) you can download Excel.
 
 <br /> 
 <br /> 
