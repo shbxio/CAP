@@ -14,7 +14,7 @@ First of all, running the script requires extensions that you need to install in
 <br />
 <br />
 
-**`Install MSM`** <br />
+**`Install Microsoft Sustainability Manager`** <br />
 <br />
 <br />
 
