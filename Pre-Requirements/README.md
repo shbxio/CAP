@@ -23,7 +23,7 @@ Power BI is a business analytics tool that allows users to visualize and analyze
 **`4. Microsoft Sustainability Manager`** <br />
 Microsoft Sustainability Manager is an extensible solution that unifies data intelligence and provides comprehensive, integrated and automated sustainability management for organizations at every stage of their sustainability development. The solution automates manual processes and enables companies to more efficiently capture, report and reduce their emissions and impacts on water and waste.
 You can find out more at the following [link](https://learn.microsoft.com/en-us/industry/sustainability/sustainability-manager-overview).
-<br /> <br />
+<br />
 Unfortunately, Microsoft Sustainability Manager is not free, but there is an offer for a free 30-day trial. You can find out more at the following [link](https://learn.microsoft.com/en-us/industry/sustainability/trial-setup).
 
 **`5. Download Power BI Desktop`** <br />
