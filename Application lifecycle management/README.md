@@ -1,6 +1,6 @@
 # In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script.
 
-**1.** There are 3 files in the "ALM" directory:
+**1.** There are 3 files in the "Application lifecycle management" directory:
 
 - **configs.json:** This file contains the solutions for our demo as well as the configuration of the environment to upload the demo to. 
 - **applicationlist.json:** Contains all the applications that are required to run our demo.
