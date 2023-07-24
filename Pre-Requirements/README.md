@@ -13,7 +13,7 @@ Microsoft refers to a collection of products and services designed to enable com
 
 You can find out more at the following [link](https://powerplatform.microsoft.com/en-us/).
 
-**`2. Create an environment on Power Apps`** <br />
+**`2. Create an environment in Power Apps`** <br />
 Power Apps is a low-code development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps tailored to their specific business needs using pre-built templates and drag-and-drop functionality. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/). <br />
 Just for your information, creating a new environment in Power Apps is not free. The following [link](https://www.c-sharpcorner.com/article/how-to-create-a-new-environment-in-power-apps/) describes how to create a new environment.
 
