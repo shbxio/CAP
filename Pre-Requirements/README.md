@@ -14,7 +14,8 @@ Microsoft refers to a collection of products and services designed to enable com
 You can find out more at the following [link](https://powerplatform.microsoft.com/en-us/).
 
 **`2. Create an environment on Power Apps`** <br />
-Power Apps is a low-code development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps tailored to their specific business needs using pre-built templates and drag-and-drop functionality. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/).
+Power Apps is a low-code development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps tailored to their specific business needs using pre-built templates and drag-and-drop functionality. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/). <br />
+Just for your information, creating a new environment in Power Apps is not free. The following [link](https://www.c-sharpcorner.com/article/how-to-create-a-new-environment-in-power-apps/) describes how to create a new environment.
 
 **`3. Create workspace in Power BI`** <br />
 Power BI is a business analytics tool that allows users to visualize and analyze data from various sources through interactive reports and dashboards. You can find out more at the following [link](https://powerbi.microsoft.com/de-de/landing/free-account/?ef_id=_k_Cj0KCQjwn_OlBhDhARIsAG2y6zPWj-yRr9TRg51Df2qz9ygW7SvoVWHYkmqB3k057Ah0I8nKYoECR6caAp1uEALw_wcB_k_&OCID=AIDcmmvl5fszm6_SEM__k_Cj0KCQjwn_OlBhDhARIsAG2y6zPWj-yRr9TRg51Df2qz9ygW7SvoVWHYkmqB3k057Ah0I8nKYoECR6caAp1uEALw_wcB_k_&gclid=Cj0KCQjwn_OlBhDhARIsAG2y6zPWj-yRr9TRg51Df2qz9ygW7SvoVWHYkmqB3k057Ah0I8nKYoECR6caAp1uEALw_wcB).
@@ -31,7 +32,7 @@ Power BI Desktop is a free Windows application developed by Microsoft as part of
 **`6. Download IntelliJ`** <br />
 Installing an IDE is necessary to run our script and install plugins. In our project we used Intellij, so we recommend users to use Intellij as well and follow our documentation in [Application lifecycle management](https://github.com/shbxio/CAP/tree/main/Application%20lifecycle%20management). From the following [link](https://www.jetbrains.com/idea/download/?section=windows) you can download IntelliJ.
 
-**`7. Excel`**
+**`7. Excel`** <br />
 In our project we used Excel to import or export data from the DataVerse, so we recommend users to use Excel as well. From the following [link](https://www.microsoft.com/en-us/microsoft-365/excel) you can download Excel.
 
 <br /> 
