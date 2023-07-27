@@ -1,7 +1,7 @@
-# In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script.
+# In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script
 
 Please note that you must first fulfill three pre-requirements, which are also documented in the [Pre-requirements](https://github.com/shbxio/CAP/tree/main/Pre-Requirements) folder, in order to follow this documentation. The pre-requirements for this documentation are: 
-1. An already created environment in Power Apps
+1. An already created environment in [Power Apps](https://make.powerapps.com/)
 2. Downloading Visual Studio Code
 3. Microsoft Sustainability Manager license
 <br />
