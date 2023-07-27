@@ -47,9 +47,9 @@ In this section, you will learn how to install Microsoft Sustainability Manager 
 **2.** The only file you need to edit is the "configs.json" file. There you need to enter the appropriate data for your environment. You should change the following 
 data:
 
-- **"id":** The "id" variable contains the ID of the environment you want to upload the demo to. You will find it when you log in to Power Apps. In the image below, you can see that the "id" is in the Power Apps URL itself. For example, it has the following form: h42q0428-0z19-ab6t-v831-g37y0lo6ns1l".
+- **"id":** The "id" variable contains the ID of the environment you want to upload the demo to. You will find it when you log in to Power Apps. In the second  image below, you can see that the "id" is in the Power Apps URL itself. For example, it has the following form: h42q0428-0z19-ab6t-v831-g37y0lo6ns1l".
 
-- **"name":** The variable "name" contains the name of the environment. It can be found in the Power Apps. In the image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
+- **"name":** The variable "name" contains the name of the environment. It can be found in the Power Apps. In the second image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
 
   ![configs_id_name](https://github.com/shbxio/CAP/assets/43991954/70054873-a0d6-4179-b7eb-6e9afa26fc66)
 
