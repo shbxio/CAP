@@ -36,7 +36,7 @@ In this section, you will learn how to install Microsoft Sustainability Manager 
 <br />
 <br />
 
-**`Run PowerShell script`** <br />
+## Run PowerShell script
 
 **1.** There are 3 files in the "Application lifecycle management" directory:
 
@@ -52,9 +52,9 @@ data:
 
 - **"name":** The variable "name" contains the name of the environment. It can be found in the Power Apps. In the image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
 
-Please note that each environment has its own "id". So first select your environment and enter the name in the variable "name". Then determine the ID for the selected environment and store it in the "id" variable.
+  Please note that each environment has its own "id". So first select your environment and enter the name in the variable "name". Then determine the ID for the selected environment and store it in the "id" variable.
 
-![idandenv](https://github.com/shbxio/CAP/assets/43991954/e63c8d7e-7d87-4110-a769-7fa5cca791f0)
+  ![idandenv](https://github.com/shbxio/CAP/assets/43991954/e63c8d7e-7d87-4110-a769-7fa5cca791f0)
 <br>
 
 **3.** Once you have completed this step, all you need to do is run the script. This requires the following steps:
