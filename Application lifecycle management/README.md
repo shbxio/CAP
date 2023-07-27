@@ -5,14 +5,6 @@ Please note that you must first fulfill three pre-requirements, which are also d
 2. Downloading [Visual Studio Code](https://code.visualstudio.com/download)
 3. Microsoft Sustainability Manager license
 <br />
-<br />
-
-## Install necessary extensions
-First of all, running the script requires extensions that you need to install in Visual Studio Code. To do this, press the "Extensions" icon, which you can find on the left side, and look for "Power Platform Tools" and "PowerShell" in the search icon. You will need to install these two extensions. <br /> <br />
-![powerPlatformTools](https://github.com/shbxio/CAP/assets/43991954/f9ac37db-ae9a-46ca-9e77-af85966d656a)
-![powershell](https://github.com/shbxio/CAP/assets/43991954/0dd35c2d-6afe-4055-bb13-a57cf0b7cda4)
-<br />
-<br />
 
 ## Install Microsoft Sustainability Manager
 In this section, you will learn how to install Microsoft Sustainability Manager (MSM) from the Admin Center.
@@ -30,8 +22,13 @@ In this section, you will learn how to install Microsoft Sustainability Manager 
 
 5. There you should search for "Microsoft Sustainability Manager". Please note that you also need to install "Microsoft Sustainability Manager Demo Data". This will allow to create an organizational hierarchy, which we will be editing later. You can't install both solutions at the same time, so you need to install them separately. Once you have accepted the terms of use, you can install MSM / MSM Demo Data. <br />
 ![MSMNext](https://github.com/shbxio/CAP/assets/43991954/fd3f278e-ff8e-4185-8f5f-0ebe532f714d)
+<br />
+<br />
 
-
+## Install necessary extensions
+First of all, running the script requires extensions that you need to install in Visual Studio Code. To do this, press the "Extensions" icon, which you can find on the left side, and look for "Power Platform Tools" and "PowerShell" in the search icon. You will need to install these two extensions. <br /> <br />
+![powerPlatformTools](https://github.com/shbxio/CAP/assets/43991954/f9ac37db-ae9a-46ca-9e77-af85966d656a)
+![powershell](https://github.com/shbxio/CAP/assets/43991954/0dd35c2d-6afe-4055-bb13-a57cf0b7cda4)
 <br />
 <br />
 
