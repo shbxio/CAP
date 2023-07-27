@@ -26,11 +26,10 @@ In this section, you will learn how to install Microsoft Sustainability Manager 
 ![Dynamics365](https://github.com/shbxio/CAP/assets/43991954/1baa4d28-87b7-4b22-93fd-c679116e1d6b)
 
 4. Then press "Install App" at the top so that a popout window appears on the right side. <br />
-![installApp](https://github.com/shbxio/CAP/assets/43991954/7d324dbe-2d9e-40b8-b4ed-65e05f8f6c4f)
+![installApp](https://github.com/shbxio/CAP/assets/43991954/c0da1a80-e366-4990-b1f1-79b3c87e8bbe)
 
 5. There you should search for "Microsoft Sustainability Manager". Once you have accepted the terms of use, you can install MSM. <br />
-![MSMNext](https://github.com/shbxio/CAP/assets/43991954/b1063c0f-1264-429c-a1b1-eb10664d90c8)
-![msmInstall](https://github.com/shbxio/CAP/assets/43991954/6cf26210-a091-4c45-8131-ad26d44c01d7)
+![MSMNext](https://github.com/shbxio/CAP/assets/43991954/fd3f278e-ff8e-4185-8f5f-0ebe532f714d)
 
 
 <br />
