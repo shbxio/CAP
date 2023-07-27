@@ -51,6 +51,8 @@ data:
 
 - **"name":** The variable "name" contains the name of the environment. It can be found in the Power Apps. In the image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
 
+  ![configs_id_name](https://github.com/shbxio/CAP/assets/43991954/70054873-a0d6-4179-b7eb-6e9afa26fc66)
+
   Please note that each environment has its own "id". So first select your environment and enter the name in the variable "name". Then determine the ID for the selected environment and store it in the "id" variable.
 
   ![idandenv](https://github.com/shbxio/CAP/assets/43991954/e63c8d7e-7d87-4110-a769-7fa5cca791f0)
