@@ -21,7 +21,7 @@
 **5.** When you are done, go back to the "Table" and enter "Organizational unit" in the search box and open the relevant table.
 
 **6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". The correct entries can be found in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
-  ![orgaUnitTab](https://github.com/shbxio/CAP/assets/43991954/918f48f5-875a-43af-a97e-540cf06f1b26)
+  ![unitsTab](https://github.com/shbxio/CAP/assets/43991954/fe9c3a39-21b0-4416-bcf3-76e9228c9b9f)
 <br />
 <br />
 
