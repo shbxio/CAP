@@ -1,5 +1,33 @@
 # In this documentation you will learn how to delete all stored data in a table
 
+## Editing the organizational structure
+
+**`Organizational profile`**
+**1.** First, log in to [Power Apps](https://make.powerapps.com/).
+**2.** Then navigate to "Tables" found on the left side and click "All" at the top.
+**3.** In the search box, type "Organizational profile" and open the relevant table.
+  ![orgaProfile](https://github.com/shbxio/CAP/assets/43991954/f1b3530a-9a3a-408b-ab7b-5095c7278f88)
+
+**4.** You should only find one demo entry in the table in this case, which was automatically added when you installed MSM Demo Data. Change the entry to "Contoso Automotive" by simply clicking on the first cell of the first column and row. Note that you should not delete the entry but just rewrite it. If the "Reporting start day (Internal)" and "Reporting start month (Internal)" columns are blank, then enter the entries you can see in the image below, so that the first row looks exactly like the image below.
+  ![orgaProfileTab](https://github.com/shbxio/CAP/assets/43991954/038cf34f-60d9-41a1-aaeb-81b097663aaf)
+
+
+**`Organizational unit`**  
+- When you are done, go back to the "Table" and enter "Organizational Unit" in the search field at the top and open the relevant table.
+
+- The same step as before is performed here. Here you have to rewrite the data. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". You can find the correct entries in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustrative purposes only and are fictitious.  No real-world context is intended or inferred."
+
+
+**`Organizational hierarchies`**  
+- When you are done with this, go back to the "Table" and type "Organizational Hierarchies" in the search box at the top and open the relevant table.
+- Here the same step occurs as before. Here you will need to rewrite the data. Note that you should not delete the entry, but only rewrite it. Here you should rewrite only the entries of the first three columns, i.e. "Organizational unit", "Parent" and "Valid start date". The correct entries can be found in the following figure.
+
+
+
+
+
+
+
 **1.** First, log in to Power Apps (https://make.powerapps.com) and select the "Advanced Settings" option under the Settings icon.
 ![advancedSett](https://github.com/shbxio/CAP/assets/43991954/43ccf942-6bcf-4980-874d-cfa950669ee8)
 
