@@ -1,7 +1,7 @@
 # In this documentation you will learn how to delete all stored data in a table
 
 ## Editing the organizational structure
-<br />
+
 **`Organizational profile`**
 
 **1.** First, log in to [Power Apps](https://make.powerapps.com/).
@@ -15,11 +15,15 @@
   ![orgaProfileTab](https://github.com/shbxio/CAP/assets/43991954/038cf34f-60d9-41a1-aaeb-81b097663aaf)
 <br />
 <br />
+
 **`Organizational unit`**  
-- When you are done, go back to the "Table" and enter "Organizational Unit" in the search field at the top and open the relevant table.
 
-- The same step as before is performed here. Here you have to rewrite the data. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". You can find the correct entries in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustrative purposes only and are fictitious.  No real-world context is intended or inferred."
+**5.** When you are done, go back to the "Table" and enter "Organizational unit" in the search box and open the relevant table.
 
+**6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". You can find the correct entries in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
+  ![orgaUnitTab](https://github.com/shbxio/CAP/assets/43991954/918f48f5-875a-43af-a97e-540cf06f1b26)
+<br />
+<br />
 
 **`Organizational hierarchies`**  
 - When you are done with this, go back to the "Table" and type "Organizational Hierarchies" in the search box at the top and open the relevant table.
