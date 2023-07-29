@@ -20,17 +20,19 @@
 
 **5.** When you are done, go back to the "Table" and enter "Organizational unit" in the search box and open the relevant table.
 
-**6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". You can find the correct entries in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
+**6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". The correct entries can be found in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
   ![orgaUnitTab](https://github.com/shbxio/CAP/assets/43991954/918f48f5-875a-43af-a97e-540cf06f1b26)
 <br />
 <br />
 
-**`Organizational hierarchies`**  
-- When you are done with this, go back to the "Table" and type "Organizational Hierarchies" in the search box at the top and open the relevant table.
-- Here the same step occurs as before. Here you will need to rewrite the data. Note that you should not delete the entry, but only rewrite it. Here you should rewrite only the entries of the first three columns, i.e. "Organizational unit", "Parent" and "Valid start date". The correct entries can be found in the following figure.
+**`Organizational hierarchy`**
 
+**7.** When you are done, go back to the "Table" and enter "Organizational hierarchies" in the search box and open the relevant table.
 
-
+**8.** Here the same step occurs as before. Note that you should not delete the entry, but only rewrite it. Here you should rewrite only the entries of the first three columns, i.e. "Organizational unit", "Parent" and "Effective start date". The correct entries can be found in the image below.
+  ![orgaHierTab](https://github.com/shbxio/CAP/assets/43991954/b76ac2df-7d4f-4c9b-9c88-71c8e6b4e56d)
+<br />
+<br />
 
 
 
