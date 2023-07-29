@@ -35,7 +35,7 @@
 <br />
 
 
-
+## Upload demo data
 
 **1.** First, log in to Power Apps (https://make.powerapps.com) and select the "Advanced Settings" option under the Settings icon.
 ![advancedSett](https://github.com/shbxio/CAP/assets/43991954/43ccf942-6bcf-4980-874d-cfa950669ee8)
