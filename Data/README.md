@@ -46,7 +46,7 @@ These three tables will be automatically created with the demo you uploaded usin
 **1.** Press "Tables" and select "Custom" at the top. There you should find the table "World Region" which you should open.
   ![worldRegionTab](https://github.com/shbxio/CAP/assets/43991954/bec82215-1860-4d48-9ffb-01ef383b5902)
 
-**2.** If there are entries stored there, you need to delete them before uploading our Excel file. To do this, you must first click on "Edit". Then select all entries and press "Delete". In the figure below you can see an example.
+**2.** If there are entries stored there, you need to delete them before uploading our Excel file. To do this, you must first click on "Edit". Then select all rows and press "Delete". In the image below you can see an example.
 ![worldRegionEdit](https://github.com/shbxio/CAP/assets/43991954/c6d9425d-30ed-4336-8ff5-118bbd061278)
 ![worldRegionDelete](https://github.com/shbxio/CAP/assets/43991954/d87c5bee-36c5-4709-afc7-62151ee106bc)
 
