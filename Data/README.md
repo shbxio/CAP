@@ -28,7 +28,7 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 
 ### **`Organizational hierarchy`**
 
-**7.** When you are done, go back to the "Table" and enter "Organizational hierarchies" in the search box and open the relevant table.
+**7.** When you are done, go back to the "Table" and enter "Organizational hierarchy" in the search box and open the relevant table.
 
 **8.** Here the same step occurs as before. Note that you should not delete the entry, but only rewrite it. Here you should rewrite only the entries of the first three columns, i.e. "Organizational unit", "Parent" and "Effective start date". The correct entries can be found in the image below.
   ![orgaHierTab](https://github.com/shbxio/CAP/assets/43991954/b76ac2df-7d4f-4c9b-9c88-71c8e6b4e56d)
