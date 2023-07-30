@@ -38,8 +38,8 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 
 ## Upload demo data
 
-Next, we come to the second part of the documentation. Here you will learn how to upload the data for our demo into the DataVerse. There are 3 tables: CAP Emissions, Levers, World Region. <br>
-These three tables will be automatically created with the demo you uploaded using the ALM documentation. However, the data is not automatically saved with it. Therefore, you must do this yourself.
+Next, we come to the second part of the documentation. Here you will learn how to upload the data for our demo into the DataVerse. There are 3 tables: CAP Emission, Lever and World Region. <br>
+These three tables will be automatically created with the demo you uploaded using the [ALM](https://github.com/shbxio/CAP/tree/main/Application%20lifecycle%20management) documentation. However, the data is not automatically saved with it. Therefore, you must do this yourself.
 
 ### **`World Region`** 
 
