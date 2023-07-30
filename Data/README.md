@@ -37,6 +37,39 @@
 
 ## Upload demo data
 
+Next, we come to the second part of the documentation. Here you will learn how to upload the data for our demo into the DataVerse. There are 3 tables: CAP Emissions, Levers, World Region.
+These three tables will be automatically created with the demo you uploaded using the ALM documentation. However, the data is not automatically saved with it. Therefore, you must do this yourself.
+
+**`World Region`** 
+
+**1.** Press "Tables" and select "Custom" at the top. There you should find the table "World regions" which you should open.
+  ![worldRegionTab](https://github.com/shbxio/CAP/assets/43991954/bec82215-1860-4d48-9ffb-01ef383b5902)
+
+**2.** If there are entries stored there, you need to delete them before uploading our Excel file. To do this, you must first click on "Edit". Then select all entries and press "Delete". In the figure below you can see an example.
+![worldRegionEdit](https://github.com/shbxio/CAP/assets/43991954/c6d9425d-30ed-4336-8ff5-118bbd061278)
+![worldRegionDelete](https://github.com/shbxio/CAP/assets/43991954/d87c5bee-36c5-4709-afc7-62151ee106bc)
+
+**3.** Now you need to upload the Excel file "World Regions". To do this, click on "Import data". Then a pop-out window should appear.
+![worldRegionImportData](https://github.com/shbxio/CAP/assets/43991954/2a6a7395-fd2b-4dcd-93c5-8b582ecd7509)
+ 
+**4.** Simply drag and drop the Excel file into the box, as you can see in the image below.
+![importDataTemplate](https://github.com/shbxio/CAP/assets/43991954/ea24effc-af94-4d0f-92a8-0c7380c1fea2)
+
+**5.** You should then be automatically redirected to the next page where you need to click on "Upload File (Preview)". Then you should not select anything else, but click on the "Sign in" button. There you will need to log in with your account.
+![signInUploadData](https://github.com/shbxio/CAP/assets/43991954/c8aecab5-8ebf-4e14-81ae-59f54f3b4436)
+ 
+**6.** Then you should automatically get to the next page where you select "Table1" and press "Next" at the bottom right.
+![chooseTable](https://github.com/shbxio/CAP/assets/43991954/89fc0487-412f-4c5a-a1d6-4e4e8d3b7287)
+
+**7.** Then you will be redirected to an Excel window where you press "Next" again.
+    
+**8.** A new page will then appear where you select "Load into existing table". Then press the "Target Table" dropdown button and select the "shbx_WorldRegion" table. On the right side, under "Source Column" you should select the correct columns for the corresponding "Target Column". In the figure below you can see how it should look like.
+![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/56233cca-b512-452d-8f14-609b36f87dc6)
+ 
+**9.** Then press "Next." Then you will be redirected and click on "Publish". Wait for about 30-60 seconds and refresh the page again. Then you should see the entries in the table.
+
+
+
 **1.** First, log in to Power Apps (https://make.powerapps.com) and select the "Advanced Settings" option under the Settings icon.
 ![advancedSett](https://github.com/shbxio/CAP/assets/43991954/43ccf942-6bcf-4980-874d-cfa950669ee8)
 
