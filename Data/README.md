@@ -2,9 +2,7 @@
 
 ## Editing the organizational structure
 
-**`Organizational profile`**
-## <span style="text-decoration: underline;">Organizational profile</span>
-
+##  **`Organizational profile`**
 
 **1.** First, log in to [Power Apps](https://make.powerapps.com/).
 
