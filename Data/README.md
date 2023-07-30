@@ -110,7 +110,7 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **2.** Now you need to upload the Excel file "CAP Emissions". Follow the same steps as for the "World Region" or "Lever".
 
-**3.** Then when you land on this page you see in the image below, it should look exactly like the image below.
+**3.** Then, when you land on the "Map tables" page, you should adjust it so that it looks exactly like the following image.
 ![capEmissionsTab1](https://github.com/shbxio/CAP/assets/43991954/7b0601b1-0e4a-46d9-ba17-8535e6b6045c)
 ![capEmissionsTab2](https://github.com/shbxio/CAP/assets/43991954/207ecdae-4a5b-49c8-9b3b-bf3e8f2cb93c)
 
