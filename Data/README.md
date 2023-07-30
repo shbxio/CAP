@@ -16,6 +16,7 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
   ![orgaProfileTab](https://github.com/shbxio/CAP/assets/43991954/038cf34f-60d9-41a1-aaeb-81b097663aaf)
 <br />
 <br />
+<br />
 
 ### **`Organizational unit`**  
 
@@ -23,6 +24,7 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 
 **6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". The correct entries can be found in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
   ![unitsTab](https://github.com/shbxio/CAP/assets/43991954/fe9c3a39-21b0-4416-bcf3-76e9228c9b9f)
+<br />
 <br />
 <br />
 
@@ -34,7 +36,8 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
   ![orgaHierTab](https://github.com/shbxio/CAP/assets/43991954/b76ac2df-7d4f-4c9b-9c88-71c8e6b4e56d)
 <br />
 <br />
-
+<br />
+<br />
 
 ## Upload demo data
 
@@ -81,7 +84,9 @@ These three tables will be automatically created with the demo you uploaded usin
 **12.** Fill the relevant input fields, as in the image below, and then press "Save".
 <br>
 ![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/c3070c4f-6f8d-4a8e-838f-b951e6870cf9)
-
+<br />
+<br />
+<br />
 
 ### **`Lever`** 
 
@@ -102,7 +107,9 @@ These three tables will be automatically created with the demo you uploaded usin
 **7.** Fill the relevant input fields, as in the image below, and then press "Save".
 <br>
 ![keyLevers](https://github.com/shbxio/CAP/assets/43991954/5a9c370d-7dda-45b7-a44b-b37e808426ab)
-
+<br />
+<br />
+<br />
 
 ### **`CAP Emission`** 
 
