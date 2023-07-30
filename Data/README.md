@@ -71,14 +71,14 @@ These three tables will be automatically created with the demo you uploaded usin
 <br>
 ![worldRegionNew](https://github.com/shbxio/CAP/assets/43991954/191e39f4-60ec-4564-a839-71eb84f3cd3c)
 
-**10.** Then press " Keys ".
+**10.** After that press "Keys".
 ![keysWorldRegion](https://github.com/shbxio/CAP/assets/43991954/9804bbaa-fa01-4527-8527-b5f7872d0a73)
 
 **11.** Press "New key"
 <br>
 ![newKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/bb5e59a1-27a8-4f6b-87ba-9be3006b9f18)
 
-**12.** Fill the relevant input fields, as in the image below, and then presses "Save".
+**12.** Fill the relevant input fields, as in the image below, and then press "Save".
 <br>
 ![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/c3070c4f-6f8d-4a8e-838f-b951e6870cf9)
 
