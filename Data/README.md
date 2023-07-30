@@ -85,21 +85,21 @@ These three tables will be automatically created with the demo you uploaded usin
 
 ### **`Lever`** 
 
-**1.** Press "Tables" and select "Custom" at the top. There you should find the table "World regions" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
+**1.** Press "Tables" and select "Custom" at the top. There you should find the table "Lever" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
 
 **2.** Now you need to upload the Excel file "Levers". Follow the same steps as for the "World Region".
 
-**3.** Then when you land on this page you see in the image below, it should look exactly like the image below.
+**3.** Then, when you land on the "Map Table" page, you should adjust it so that it looks exactly like the following image.
 ![mapTableLevers](https://github.com/shbxio/CAP/assets/43991954/a8a00500-b3ea-47ad-99e2-85a2f5d956d8)
 
 **4.** Then you should see the entries in the table.
 ![leversEntries](https://github.com/shbxio/CAP/assets/43991954/639ccf82-26fc-4bf6-bdd4-f6c0d60979a2)
 
-**5.** Then press " Keys ".
+**5.** After that press "Keys".
 
 **6.** Press "New key"
 
-**7.** Fill the relevant input fields, as in the image below, and then presses "Save".
+**7.** Fill the relevant input fields, as in the image below, and then press "Save".
 <br>
 ![keyLevers](https://github.com/shbxio/CAP/assets/43991954/5a9c370d-7dda-45b7-a44b-b37e808426ab)
 
