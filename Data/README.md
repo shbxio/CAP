@@ -105,6 +105,18 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **`CAP Emission`** 
 
+**1.** Press "Tables" and select "Custom" at the top. There you should find the table "CAP Emission" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
+
+**2.** Now you need to upload the Excel file "CAP Emissions". Follow the same steps as for the "World Region" or "Lever".
+
+**3.** Then when you land on this page you see in the image below, it should look exactly like the image below.
+![capEmissionsTab1](https://github.com/shbxio/CAP/assets/43991954/7b0601b1-0e4a-46d9-ba17-8535e6b6045c)
+![capEmissionsTab2](https://github.com/shbxio/CAP/assets/43991954/207ecdae-4a5b-49c8-9b3b-bf3e8f2cb93c)
+
+**4.** Since there are multiple columns and over 1000 rows, I can't take a screenshot of what the table should look like. But once you see the entries in the table, the data should have been uploaded without any problems.
+
+
+
 
 
 
