@@ -89,7 +89,7 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **2.** Now you need to upload the Excel file "Levers". Follow the same steps as for the "World Region".
 
-**3.** Then, when you land on the "Map Table" page, you should adjust it so that it looks exactly like the following image.
+**3.** Then, when you land on the "Map tables" page, you should adjust it so that it looks exactly like the following image.
 ![mapTableLevers](https://github.com/shbxio/CAP/assets/43991954/a8a00500-b3ea-47ad-99e2-85a2f5d956d8)
 
 **4.** Then you should see the entries in the table.
