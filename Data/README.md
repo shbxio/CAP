@@ -2,7 +2,7 @@
 
 ## Editing the organizational structure
 
-##  **`Organizational profile`**
+### **`Organizational profile`**
 
 **1.** First, log in to [Power Apps](https://make.powerapps.com/).
 
