@@ -42,7 +42,7 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **`World Region`** 
 
-**1.** Press "Tables" and select "Custom" at the top. There you should find the table "World regions" which you should open.
+**1.** Press "Tables" and select "Custom" at the top. There you should find the table "World Region" which you should open.
   ![worldRegionTab](https://github.com/shbxio/CAP/assets/43991954/bec82215-1860-4d48-9ffb-01ef383b5902)
 
 **2.** If there are entries stored there, you need to delete them before uploading our Excel file. To do this, you must first click on "Edit". Then select all entries and press "Delete". In the figure below you can see an example.
@@ -84,6 +84,23 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **`Lever`** 
 
+**1.** Press "Tables" and select "Custom" at the top. There you should find the table "World regions" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
+
+**2.** Now you need to upload the Excel file "Levers". Follow the same steps as for the "World Region".
+
+**3.** Then when you land on this page you see in the image below, it should look exactly like the image below.
+![mapTableLevers](https://github.com/shbxio/CAP/assets/43991954/a8a00500-b3ea-47ad-99e2-85a2f5d956d8)
+
+**4.** Then you should see the entries in the table.
+![leversEntries](https://github.com/shbxio/CAP/assets/43991954/639ccf82-26fc-4bf6-bdd4-f6c0d60979a2)
+
+**5.** Then press " Keys ".
+
+**6.** Press "New key"
+
+**7.** Fill the relevant input fields, as in the image below, and then presses "Save".
+<br>
+![keyLevers](https://github.com/shbxio/CAP/assets/43991954/5a9c370d-7dda-45b7-a44b-b37e808426ab)
 
 
 **`CAP Emission`** 
