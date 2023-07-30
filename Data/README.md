@@ -81,6 +81,15 @@ These three tables will be automatically created with the demo you uploaded usin
 ![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/c3070c4f-6f8d-4a8e-838f-b951e6870cf9)
 
 
+**`Lever`** 
+
+
+
+**`CAP Emission`** 
+
+
+
+
 **1.** First, log in to Power Apps (https://make.powerapps.com) and select the "Advanced Settings" option under the Settings icon.
 ![advancedSett](https://github.com/shbxio/CAP/assets/43991954/43ccf942-6bcf-4980-874d-cfa950669ee8)
 
