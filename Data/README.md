@@ -1,6 +1,8 @@
-# In this documentation you will learn how to delete all stored data in a table
+# In this documentation you will learn how to edit the organizational structure and upload our demo data
 
 ## Editing the organizational structure
+
+In the first part of the documentation you will learn how to edit the organizational structure in DataVerse. There are 3 tables: Organizational profile, Organizational unit and Organizational hierarchy.
 
 ### **`Organizational profile`**
 
