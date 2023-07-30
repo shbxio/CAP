@@ -37,7 +37,7 @@
 
 ## Upload demo data
 
-Next, we come to the second part of the documentation. Here you will learn how to upload the data for our demo into the DataVerse. There are 3 tables: CAP Emissions, Levers, World Region.
+Next, we come to the second part of the documentation. Here you will learn how to upload the data for our demo into the DataVerse. There are 3 tables: CAP Emissions, Levers, World Region. <br>
 These three tables will be automatically created with the demo you uploaded using the ALM documentation. However, the data is not automatically saved with it. Therefore, you must do this yourself.
 
 **`World Region`** 
@@ -72,10 +72,12 @@ These three tables will be automatically created with the demo you uploaded usin
 **10.** Then press " Keys ".
 ![keysWorldRegion](https://github.com/shbxio/CAP/assets/43991954/9804bbaa-fa01-4527-8527-b5f7872d0a73)
 
-**11.** Press "New key
+**11.** Press "New key"
+<br>
 ![newKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/bb5e59a1-27a8-4f6b-87ba-9be3006b9f18)
 
 **12.** Fill the relevant input fields, as in the image below, and then presses "Save".
+<br>
 ![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/c3070c4f-6f8d-4a8e-838f-b951e6870cf9)
 
 
