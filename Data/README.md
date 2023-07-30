@@ -16,7 +16,7 @@
 <br />
 <br />
 
-**`Organizational unit`**  
+### **`Organizational unit`**  
 
 **5.** When you are done, go back to the "Table" and enter "Organizational unit" in the search box and open the relevant table.
 
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-**`Organizational hierarchy`**
+### **`Organizational hierarchy`**
 
 **7.** When you are done, go back to the "Table" and enter "Organizational hierarchies" in the search box and open the relevant table.
 
@@ -40,7 +40,7 @@
 Next, we come to the second part of the documentation. Here you will learn how to upload the data for our demo into the DataVerse. There are 3 tables: CAP Emissions, Levers, World Region. <br>
 These three tables will be automatically created with the demo you uploaded using the ALM documentation. However, the data is not automatically saved with it. Therefore, you must do this yourself.
 
-**`World Region`** 
+### **`World Region`** 
 
 **1.** Press "Tables" and select "Custom" at the top. There you should find the table "World Region" which you should open.
   ![worldRegionTab](https://github.com/shbxio/CAP/assets/43991954/bec82215-1860-4d48-9ffb-01ef383b5902)
@@ -82,7 +82,7 @@ These three tables will be automatically created with the demo you uploaded usin
 ![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/c3070c4f-6f8d-4a8e-838f-b951e6870cf9)
 
 
-**`Lever`** 
+### **`Lever`** 
 
 **1.** Press "Tables" and select "Custom" at the top. There you should find the table "World regions" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
 
@@ -103,7 +103,7 @@ These three tables will be automatically created with the demo you uploaded usin
 ![keyLevers](https://github.com/shbxio/CAP/assets/43991954/5a9c370d-7dda-45b7-a44b-b37e808426ab)
 
 
-**`CAP Emission`** 
+### **`CAP Emission`** 
 
 **1.** Press "Tables" and select "Custom" at the top. There you should find the table "CAP Emission" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
 
@@ -114,9 +114,5 @@ These three tables will be automatically created with the demo you uploaded usin
 ![capEmissionsTab2](https://github.com/shbxio/CAP/assets/43991954/207ecdae-4a5b-49c8-9b3b-bf3e8f2cb93c)
 
 **4.** Since there are multiple columns and over 1000 rows, I can't take a screenshot of what the table should look like. But once you see the entries in the table, the data should have been uploaded without any problems.
-
-
-
-
 
 
