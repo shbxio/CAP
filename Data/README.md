@@ -67,6 +67,7 @@ These three tables will be automatically created with the demo you uploaded usin
 ![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/56233cca-b512-452d-8f14-609b36f87dc6)
  
 **9.** Then press "Next." Then you will be redirected and click on "Publish". Wait for about 30-60 seconds and refresh the page again. Then you should see the entries in the table.
+<br>
 ![worldRegionNew](https://github.com/shbxio/CAP/assets/43991954/191e39f4-60ec-4564-a839-71eb84f3cd3c)
 
 **10.** Then press " Keys ".
