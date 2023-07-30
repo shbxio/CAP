@@ -64,10 +64,10 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **7.** Then you will be redirected to an Excel window where you press "Next" again.
     
-**8.** A new page will then appear where you select "Load into existing table". Then press the "Target Table" dropdown button and select the "shbx_WorldRegion" table. On the right side, under "Source Column" you should select the correct columns for the corresponding "Target Column". In the figure below you can see how it should look like.
+**8.** A new page will then appear where you select "Load into existing table". Then press the "Destination table" dropdown button and select the "shbx_WorldRegion" table. On the right side, under "Source column" you should select the correct columns for the corresponding "Destination column". In the image below you can see how it should look like.
 ![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/56233cca-b512-452d-8f14-609b36f87dc6)
  
-**9.** Then press "Next." Then you will be redirected and click on "Publish". Wait for about 30-60 seconds and refresh the page again. Then you should see the entries in the table.
+**9.** Press "Next". Then you will be redirected and click on "Publish". Wait for about 30-60 seconds and refresh the page again. You should now see the entries in the table.
 <br>
 ![worldRegionNew](https://github.com/shbxio/CAP/assets/43991954/191e39f4-60ec-4564-a839-71eb84f3cd3c)
 
