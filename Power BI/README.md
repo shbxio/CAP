@@ -1,5 +1,22 @@
 # In this documentation you will learn how to visualize the data stored in the Dataverse
 
+### **`Create Workspace in Power BI`**
+
+**1.** First, log in to [Power BI](https://app.powerbi.com/).
+
+**2.** Then select "Workspace" on the left side and press "New workspace"
+![workspace1](https://github.com/shbxio/CAP/assets/43991954/e0413f7a-e056-4730-8d14-964ea5ed4d4b)
+
+**3.** The workspace should be named "Opensource CAP - Contoso Automotive" and then press "Apply".
+![workspace2](https://github.com/shbxio/CAP/assets/43991954/e3ce93ab-cebb-467c-9de5-4f0864525906)
+<br />
+<br />
+<br />
+
+### **`SHBX_GDS_V2_Garage.pbix`**
+
+
+
 **1.** First, you need to download the Power BI Desktop to your PC. You can use the following link: https://www.microsoft.com/en-us/download/details.aspx?id=58494 
 
 
