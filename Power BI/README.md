@@ -2,7 +2,7 @@
 
 ### **`Create Workspace in Power BI`**
 
-**1.** First, log in to [Power BI](https://app.powerbi.com/).
+**1.** First, log in to [Power BI](https://app.powerbi.com/) with your Power Apps account.
 
 **2.** Then select "Workspace" on the left side and press "New workspace" <br />
 ![workspace1](https://github.com/shbxio/CAP/assets/43991954/e0413f7a-e056-4730-8d14-964ea5ed4d4b)
@@ -14,6 +14,24 @@
 <br />
 
 ### **`SHBX_GDS_V2_Garage.pbix`**
+
+**1.** Open the file "SHBX_GDS_V2_Garage.pbix" with Power BI Desktop and log in with your account.
+![shbxSingin](https://github.com/shbxio/CAP/assets/43991954/425b8a06-78cf-436a-ac8e-c04fca1a4480)
+
+**2.** Press "Transform data" in the drop-down menu and select "Edit parameters".
+![editParam1](https://github.com/shbxio/CAP/assets/43991954/e0bc2736-271c-4769-b049-952333bd1042)
+
+- Then a pop-up window should appear. Under "ODataLink", enter the instance URL of your Power Apps environment and then press "OK".
+
+- How to get your instance URL of your Power Apps environment:
+
+**3.** Then press "Apply changes".
+![applyChanges2](https://github.com/shbxio/CAP/assets/43991954/63d8a6df-e790-46d2-b181-0c9a1e999d3c)
+
+**4.** Then a pop-up window should appear. Select "Organization account" and press "Sign in". Make sure that under "Select which level these settings should apply to" and press "Connect" accordingly.
+![odataFeedSignInThenConnect3](https://github.com/shbxio/CAP/assets/43991954/4e7330b6-c18b-4b03-941c-02a0515dde1f)
+
+
 
 
 
