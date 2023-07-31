@@ -33,7 +33,13 @@
 **6.** Then a pop-up window should appear. Select "Organization account" and press "Sign in". Make sure that under "Select which level these settings should apply to" and press "Connect" accordingly.
 ![odataFeedSignInThenConnect3](https://github.com/shbxio/CAP/assets/43991954/4e7330b6-c18b-4b03-941c-02a0515dde1f)
 
+**7.** The Power BI Desktop should then automatically refresh and you should be able to see our charts. After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive".
+![publish4](https://github.com/shbxio/CAP/assets/43991954/d26b6d06-5ba0-430b-acb8-4397ae3283a7)
+<br />
+<br />
+<br />
 
+### **`CAP-Report`**
 
 
 
