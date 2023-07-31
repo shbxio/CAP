@@ -12,3 +12,5 @@ If you want to know more or have any questions, feel free to check out our YouTu
 Thank you for visiting and supporting this project. Together, we can make a significant impact on our planet's future. Let's create something great together!
 
 ![cap](https://github.com/shbxio/CAP/assets/43991954/3f04ccd0-961c-43c4-a179-81643fe141be)
+
+https://app.powerbi.com/view?r=eyJrIjoiYzlkNjQ2NmYtNmY3ZS00NjE3LTkwNzEtNzMyNmRjNmJlYjM4IiwidCI6ImFlNDg5ZThjLWVjYjktNDdlMi1hNGRlLWIxOWNlYzhkZGViNiIsImMiOjl9
