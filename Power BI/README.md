@@ -4,7 +4,7 @@
 
 **1.** First, log in to [Power BI](https://app.powerbi.com/).
 
-**2.** Then select "Workspace" on the left side and press "New workspace"
+**2.** Then select "Workspace" on the left side and press "New workspace" <br />
 ![workspace1](https://github.com/shbxio/CAP/assets/43991954/e0413f7a-e056-4730-8d14-964ea5ed4d4b)
 
 **3.** The workspace should be named "Opensource CAP - Contoso Automotive" and then press "Apply".
