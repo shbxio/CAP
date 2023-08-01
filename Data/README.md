@@ -68,7 +68,7 @@ These three tables will be automatically created with the demo you uploaded usin
 **5.** You should then be automatically redirected to the next page where you need to click on "Upload File (Preview)". Then you should not select anything else, but click on the "Sign in" button. There you will need to log in with your account.
 ![signInUploadData](https://github.com/shbxio/CAP/assets/43991954/0b09015d-3f83-4086-9373-5a88a3e7ce28)
 
-**6.** Then you should automatically go to the next page where you select "Table1" and press "Next" at the bottom right.
+**6.** Then you should automatically go to the next page where you select "Table1" and press "Next" at the bottom right. <br />
 ![chooseTable](https://github.com/shbxio/CAP/assets/43991954/0a138a71-611e-4b5c-b0b6-e6611db32a0a)
 
 **7.** Then you will be redirected to an Excel window where you press "Next" again.
