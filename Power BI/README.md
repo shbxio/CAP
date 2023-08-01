@@ -43,7 +43,7 @@
 
 **1.** Open the file "CAP-Report.pbix" with Power BI Desktop and log in with your account.
 
-**2.** Press "Transform data" in the drop-down menu and select "Data source settings".
+**2.** Press "Transform data" in the drop-down menu and select "Data source settings". <br />
 ![dataSource](https://github.com/shbxio/CAP/assets/43991954/ccc611eb-e39f-49ff-a3ce-f5c9dbb2535b)
 
 **3.** Then a pop-up window should appear. Select the dataset "SHBX_GDS_V2_Garage" from the workspace "Opensource CAP - Contoso Automotive". The Power BI Desktop should then automatically refresh and you should be able to see our charts. After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive".
