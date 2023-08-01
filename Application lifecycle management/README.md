@@ -9,18 +9,18 @@ Please note that you must first fulfill three pre-requirements, which are also d
 ## Install Microsoft Sustainability Manager
 In this section, you will learn how to install Microsoft Sustainability Manager (MSM) from the Admin Center.
 
-1. First, log in to [Power Apps](https://make.powerapps.com/) and select the "Admin Center" option under the Settings icon. <br />
+**1.** First, log in to [Power Apps](https://make.powerapps.com/) and select the "Admin Center" option under the Settings icon. <br />
 ![adminCenter](https://github.com/shbxio/CAP/assets/43991954/03805f13-8547-457d-bb5e-cc16c677952e)
 
-2. Then navigate to "Environments" which you can see on the left side. You should see your newly created environment there. From there, select your environment. For example, in our project it was called "OpenSource Test". <br />
+**2.** Then navigate to "Environments" which you can see on the left side. You should see your newly created environment there. From there, select your environment. For example, in our project it was called "OpenSource Test". <br />
 
-3. Then click on the "Resources" dropdown button and select "Dynamics 365 apps". <br />
+**3.** Then click on the "Resources" dropdown button and select "Dynamics 365 apps". <br />
 ![Dynamics365](https://github.com/shbxio/CAP/assets/43991954/1baa4d28-87b7-4b22-93fd-c679116e1d6b)
 
-4. Then press "Install App" at the top so that a popout window appears on the right side. <br />
+**4.** Then press "Install App" at the top so that a popout window appears on the right side. <br />
 ![installApp](https://github.com/shbxio/CAP/assets/43991954/c0da1a80-e366-4990-b1f1-79b3c87e8bbe)
 
-5. There you should search for "Microsoft Sustainability Manager". Please note that you also need to install "Microsoft Sustainability Manager Demo Data". This will allow to create an organizational hierarchy, which we will be editing later. You can't install both apps at the same time, so you need to install them separately. Once you have accepted the terms of use, you can install MSM / MSM Demo Data. <br /> <br />
+**5.** There you should search for "Microsoft Sustainability Manager". Please note that you also need to install "Microsoft Sustainability Manager Demo Data". This will allow to create an organizational hierarchy, which we will be editing later. You can't install both apps at the same time, so you need to install them separately. Once you have accepted the terms of use, you can install MSM / MSM Demo Data. <br /> <br />
 For those who will use the 30-day free trial of Microsoft Sustainability Manager, the name of the app you will see here is "Microsoft Sustainability Manager Trial" and you do not need to install the "Microsoft Sustainability Manager Demo Data", as the demo data will be installed automatically in this case. <br />
 ![MSMNext](https://github.com/shbxio/CAP/assets/43991954/fd3f278e-ff8e-4185-8f5f-0ebe532f714d)
 <br />
