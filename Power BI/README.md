@@ -54,9 +54,22 @@
 
 ### **`Connect Environment with CAP-Report`**
 
+**1.** First, log in to [Power Apps](https://make.powerapps.com/).
+
+**2.** Go to "Solutions" and type "SHBX CAP Module" in the search box.
+![capModuleSolutions](https://github.com/shbxio/CAP/assets/43991954/ba442d9c-2d89-4760-b0ab-da9e515d51f7)
+
+**3.** Press the three dots and select "Edit". 
+![capModuleSolutionsEdit](https://github.com/shbxio/CAP/assets/43991954/397e962c-5990-4d02-9684-583df1319c0d)
+
+**4.** A pop-up window will appear where you need to enter the name "CAP Report", select the type "Power BI report", chose the correct workspace under "Power BI workspace" and finally select the report "CAP-Report". 
+![capReportFinal](https://github.com/shbxio/CAP/assets/43991954/756abe1b-7981-480c-a614-244a23767af0)
 
 
-**1.** First, you need to download the Power BI Desktop to your PC. You can use the following link: https://www.microsoft.com/en-us/download/details.aspx?id=58494 
+
+
+
+**4.** First, you need to download the Power BI Desktop to your PC. You can use the following link: https://www.microsoft.com/en-us/download/details.aspx?id=58494 
 
 
 **2.** Then you should open the file "SHBX_GDS_V2_Garage.pbix" with Power BI Desktop. You can find the file in the "Data" directory in the Opensource GitHub project "CAP".   
