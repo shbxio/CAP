@@ -138,18 +138,3 @@
    ![refresh2](https://github.com/shbxio/CAP/assets/43991954/ddcaed36-a7a0-4a25-bb03-43c386a2136c)
 
 <br /> 
-
-**7.** Once the data has been successfully displayed in graphical form, you will need to publish it to your account. This is done by clicking on the "Publish" button. To do this, select the workspace where you want to save the graphs. 
-
-   ![publish](https://github.com/shbxio/CAP/assets/43991954/624e2806-c77e-4f40-a7c8-3515300dfd0f)
-
-<br /> 
-
-**8.** To test if everything worked, you should log in to PowerApps and run the app by first clicking on "Solutions" and pressing "Contoso Automotive Sustainability Solution". 
-
-   ![solutions](https://github.com/shbxio/CAP/assets/43991954/058d3f5e-a45d-4b42-bcf6-1c00e048fe3b)
-
-<br /> <br />
-
-   ![app](https://github.com/shbxio/CAP/assets/43991954/6883a463-39af-471a-b81e-b1714c9910a3)
-
