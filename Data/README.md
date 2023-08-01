@@ -26,7 +26,7 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 
 **5.** When you are done, go back to the "Table" and enter "Organizational unit" in the search box and open the relevant table.
 
-**6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". The correct entries can be found in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
+**6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". The correct entries can be found in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred." <br />
   ![unitsTab](https://github.com/shbxio/CAP/assets/43991954/3a173e78-aade-4dbc-aedd-c73671febbde)
 <br />
 <br />
@@ -53,43 +53,43 @@ These three tables will be automatically created with the demo you uploaded usin
 ### **`World Region`** 
 
 **1.** Press "Tables" and select "Custom" at the top. There you should find the table "World Region" which you should open.
-  ![worldRegionTab](https://github.com/shbxio/CAP/assets/43991954/bec82215-1860-4d48-9ffb-01ef383b5902)
+  ![worldRegionTab](https://github.com/shbxio/CAP/assets/43991954/3f34b9b8-68af-4ea2-a5f0-bf1ed91443e9)
 
 **2.** If there are entries stored there, you need to delete them before uploading our Excel file. To do this, you must first click on "Edit". Then select all rows and press "Delete". In the image below you can see an example.
-![worldRegionEdit](https://github.com/shbxio/CAP/assets/43991954/c6d9425d-30ed-4336-8ff5-118bbd061278)
-![worldRegionDelete](https://github.com/shbxio/CAP/assets/43991954/d87c5bee-36c5-4709-afc7-62151ee106bc)
+![worldRegionEdit](https://github.com/shbxio/CAP/assets/43991954/880123e1-fd32-4751-8093-2288d8937847)
+![worldRegionDelete](https://github.com/shbxio/CAP/assets/43991954/fd731010-a07f-4c78-9ec0-ca646418fc24)
 
 **3.** Now you need to upload the Excel file "World Regions". To do this, click on "Import data". Then a pop-out window should appear.
-![worldRegionImportData](https://github.com/shbxio/CAP/assets/43991954/2a6a7395-fd2b-4dcd-93c5-8b582ecd7509)
- 
+![worldRegionImportData](https://github.com/shbxio/CAP/assets/43991954/e6f14dda-bc53-404d-b680-132fa4172d28)
+
 **4.** Simply drag and drop the Excel file into the box, as you can see in the image below.
-![importDataTemplate](https://github.com/shbxio/CAP/assets/43991954/ea24effc-af94-4d0f-92a8-0c7380c1fea2)
+![importDataTemplate](https://github.com/shbxio/CAP/assets/43991954/a27081fe-8df1-41c6-958e-0a066764277b)
 
 **5.** You should then be automatically redirected to the next page where you need to click on "Upload File (Preview)". Then you should not select anything else, but click on the "Sign in" button. There you will need to log in with your account.
-![signInUploadData](https://github.com/shbxio/CAP/assets/43991954/c8aecab5-8ebf-4e14-81ae-59f54f3b4436)
- 
+![signInUploadData](https://github.com/shbxio/CAP/assets/43991954/0b09015d-3f83-4086-9373-5a88a3e7ce28)
+
 **6.** Then you should automatically go to the next page where you select "Table1" and press "Next" at the bottom right.
-![chooseTable](https://github.com/shbxio/CAP/assets/43991954/89fc0487-412f-4c5a-a1d6-4e4e8d3b7287)
+![chooseTable](https://github.com/shbxio/CAP/assets/43991954/0a138a71-611e-4b5c-b0b6-e6611db32a0a)
 
 **7.** Then you will be redirected to an Excel window where you press "Next" again.
     
 **8.** A new page will then appear where you select "Load into existing table". Then press the "Destination table" dropdown button and select the "shbx_WorldRegion" table. On the right side, under "Source column" you should select the correct columns for the corresponding "Destination column". In the image below you can see how it should look like.
-![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/56233cca-b512-452d-8f14-609b36f87dc6)
- 
+![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/ab0e44e9-0fff-4941-9f22-15ffbe17cda6)
+
 **9.** Press "Next". Then you will be redirected and click on "Publish". Wait for about 30-60 seconds and refresh the page again. You should now see the entries in the table.
 <br>
-![worldRegionNew](https://github.com/shbxio/CAP/assets/43991954/191e39f4-60ec-4564-a839-71eb84f3cd3c)
+![worldRegionNew](https://github.com/shbxio/CAP/assets/43991954/79678d1c-9e38-48b5-9949-1da7339d1c7b)
 
 **10.** After that press "Keys".
-![keysWorldRegion](https://github.com/shbxio/CAP/assets/43991954/9804bbaa-fa01-4527-8527-b5f7872d0a73)
+![keysWorldRegion](https://github.com/shbxio/CAP/assets/43991954/622aabae-3d50-49d0-a984-ee0a2c9b9d36)
 
 **11.** Press "New key"
 <br>
-![newKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/bb5e59a1-27a8-4f6b-87ba-9be3006b9f18)
+![newKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/6f1a33e1-551f-4e6e-8f03-75d2f46cba08)
 
 **12.** Fill the relevant input fields, as in the image below, and then press "Save".
 <br>
-![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/c3070c4f-6f8d-4a8e-838f-b951e6870cf9)
+![createKeyWorldRegion](https://github.com/shbxio/CAP/assets/43991954/b6b5aae9-cc60-439c-adeb-a498c3827bf2)
 <br />
 <br />
 <br />
