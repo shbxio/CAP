@@ -64,6 +64,28 @@
 
 **4.** A pop-up window will appear where you need to enter the name "CAP Report", select the type "Power BI report", chose the correct workspace under "Power BI workspace" and finally select the report "CAP-Report". <br />
 ![capReportFinal](https://github.com/shbxio/CAP/assets/43991954/756abe1b-7981-480c-a614-244a23767af0)
+<br />
+<br />
+<br />
+
+### **`Run Demo`**
+
+**1.** First, log in to [Power Apps](https://make.powerapps.com/).
+
+**2.** Go to "Apps", press the three dots of the "Contoso Automotive" app and select "Edit". <br />
+![appPlay](https://github.com/shbxio/CAP/assets/43991954/07c33201-4ea6-4386-80f8-afb837ab7fff)
+
+**3.** Then you will be automatically redirected to another page, which should look like the image below on the left. As you can see, I have marked three pages. Remember these three, because you will select them in the next steps. <br />
+![pages](https://github.com/shbxio/CAP/assets/43991954/b301e017-e810-4b7a-80a8-f8ee3f62a24a)
+
+**4.** First, select "CAP Report". On the right side you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
+![Cap-Report](https://github.com/shbxio/CAP/assets/43991954/dc66c86b-a455-4ae5-a2aa-4b5bcf2acc1e)
+
+**5.** Then, select "Levers view". On the right side under "Settings" you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
+![Levers](https://github.com/shbxio/CAP/assets/43991954/6079bedb-286c-4dfc-b000-916f3b94f878)
+
+**6.** Then, select "World Regions view". On the right side under "Settings" you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
+![World Region](https://github.com/shbxio/CAP/assets/43991954/4dfa8a13-9ad4-41c8-a602-b731658b9388)
 
 
 
