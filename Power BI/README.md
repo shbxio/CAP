@@ -59,10 +59,10 @@
 **2.** Go to "Solutions" and type "SHBX CAP Module" in the search box.
 ![capModuleSolutions](https://github.com/shbxio/CAP/assets/43991954/ba442d9c-2d89-4760-b0ab-da9e515d51f7)
 
-**3.** Press the three dots and select "Edit". 
+**3.** Press the three dots and select "Edit". <br />
 ![capModuleSolutionsEdit](https://github.com/shbxio/CAP/assets/43991954/397e962c-5990-4d02-9684-583df1319c0d)
 
-**4.** A pop-up window will appear where you need to enter the name "CAP Report", select the type "Power BI report", chose the correct workspace under "Power BI workspace" and finally select the report "CAP-Report". 
+**4.** A pop-up window will appear where you need to enter the name "CAP Report", select the type "Power BI report", chose the correct workspace under "Power BI workspace" and finally select the report "CAP-Report". <br />
 ![capReportFinal](https://github.com/shbxio/CAP/assets/43991954/756abe1b-7981-480c-a614-244a23767af0)
 
 
