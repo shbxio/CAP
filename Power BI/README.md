@@ -87,9 +87,9 @@
 **6.** Then, select "World Regions view". On the right side under "Settings" you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
 ![World Region](https://github.com/shbxio/CAP/assets/43991954/4dfa8a13-9ad4-41c8-a602-b731658b9388)
 
-**7.** Then press "Play", which will run the app in a new tab.
-    
-&nbsp;&nbsp;&nbsp;&nbsp; ![play](https://github.com/shbxio/CAP/assets/43991954/5cab2726-5fca-4afa-b8ff-7d564486d4db)
+**7.** Then press "Play", which will run the app in a new tab. <br />
+![playDemo](https://github.com/shbxio/CAP/assets/43991954/9d6630ed-78f5-402d-a8b6-f73c308a9f77)
+
 
 
 
@@ -153,8 +153,3 @@
 
    ![app](https://github.com/shbxio/CAP/assets/43991954/6883a463-39af-471a-b81e-b1714c9910a3)
 
-<br /> <br />
-
-   **8.1.** Then press "Play", which will run the app in a new tab with the generated charts.
-    
-&nbsp;&nbsp;&nbsp;&nbsp; ![play](https://github.com/shbxio/CAP/assets/43991954/5cab2726-5fca-4afa-b8ff-7d564486d4db)
