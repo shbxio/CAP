@@ -15,31 +15,31 @@
 
 ### **`SHBX_GDS_V2_Garage.pbix`**
 
-**1.** Open the file "SHBX_GDS_V2_Garage.pbix" with Power BI Desktop and log in with your account.
+**1.** Open the file "SHBX_GDS_V2_Garage.pbix" with Power BI Desktop and log in with your account. <br />
 ![shbxSingin](https://github.com/shbxio/CAP/assets/43991954/425b8a06-78cf-436a-ac8e-c04fca1a4480)
 
-**2.** Press "Transform data" and a new popup window will appear.
+**2.** Press "Transform data" and a new popup window will appear. <br />
 ![transformData](https://github.com/shbxio/CAP/assets/43991954/8efe444c-ae0a-4a4b-b88b-f7065402b7ee)
 
-**3.** Click on "Manage Parameters" 
+**3.** Click on "Manage Parameters" <br />
 ![manageParameters](https://github.com/shbxio/CAP/assets/43991954/965f6d23-1826-4bf7-b175-9466b94d44db)
 
-**4.** Under "Current Value", enter the instance URL of your Power Apps environment and you will need to log in with your Power Apps account. After that press "OK".
+**4.** Under "Current Value", enter the instance URL of your Power Apps environment and you will need to log in with your Power Apps account. After that press "OK". <br />
 ![manageParameter](https://github.com/shbxio/CAP/assets/43991954/9d4f81e5-2994-4861-b3e8-d630014bc037)
 
-**5.** Here is how you can find the instance URL of your Power Apps environment:
+**5.** Here is how you can find the instance URL of your Power Apps environment: <br />
 ![value](https://github.com/shbxio/CAP/assets/43991954/86e2bd0e-a7db-490b-a780-e6f631373c19)
 
-**6.** After logging in, the popup window should automatically refresh. If it does not, you can do this manually at "Refresh Preview". 
+**6.** After logging in, the popup window should automatically refresh. If it does not, you can do this manually at "Refresh Preview". <br />
 ![refresh](https://github.com/shbxio/CAP/assets/43991954/4e8f4c1d-be06-4084-aa32-5c054abebdb5)
 
-**7.** After the data has been successfully transferred, you need to click on "Close & Apply" in the upper left corner so that the data is visualized in a graphical form. This will automatically close the popup window. 
+**7.** After the data has been successfully transferred, you need to click on "Close & Apply" in the upper left corner so that the data is visualized in a graphical form. This will automatically close the popup window. <br /> 
 ![closeApply](https://github.com/shbxio/CAP/assets/43991954/7f6da884-ffd4-4496-a3a5-d8f148e74ca8)
 
-**8.** Either the Power BI Desktop will automatically refresh and the charts will be displayed or you will need to do this manually. You can do this under "Refresh". 
+**8.** Either the Power BI Desktop will automatically refresh and the charts will be displayed or you will need to do this manually. You can do this under "Refresh". <br />
 ![refresh2](https://github.com/shbxio/CAP/assets/43991954/ddcaed36-a7a0-4a25-bb03-43c386a2136c)
 
-**9.** After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive".
+**9.** After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive". <br />
 ![publish4](https://github.com/shbxio/CAP/assets/43991954/d26b6d06-5ba0-430b-acb8-4397ae3283a7)
 <br />
 <br />
