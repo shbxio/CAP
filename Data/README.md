@@ -94,6 +94,8 @@ These three tables will be automatically created with the demo you uploaded usin
 <br />
 <br />
 
+# 
+
 ### **`Lever`** 
 
 **1.** Press "Tables" and select "Custom" at the top. There you should find the table "Lever" which you should open. If there are entries stored there, you need to delete them before uploading our Excel file.
@@ -116,6 +118,8 @@ These three tables will be automatically created with the demo you uploaded usin
 <br />
 <br />
 <br />
+
+# 
 
 ### **`CAP Emission`** 
 
