@@ -18,22 +18,28 @@
 **1.** Open the file "SHBX_GDS_V2_Garage.pbix" with Power BI Desktop and log in with your account.
 ![shbxSingin](https://github.com/shbxio/CAP/assets/43991954/425b8a06-78cf-436a-ac8e-c04fca1a4480)
 
-**2.** Press "Transform data" in the drop-down menu and select "Edit parameters".
-![editParam1](https://github.com/shbxio/CAP/assets/43991954/e0bc2736-271c-4769-b049-952333bd1042)
+**2.** Press "Transform data" and a new popup window will appear.
+![transformData](https://github.com/shbxio/CAP/assets/43991954/8efe444c-ae0a-4a4b-b88b-f7065402b7ee)
 
-**3.** Then a pop-up window should appear. Under "ODataLink", enter the instance URL of your Power Apps environment and then press "OK".
-![enterEditParam1](https://github.com/shbxio/CAP/assets/43991954/6c23491e-9176-4daa-8b67-375a41c1b068)
+**3.** Click on "Manage Parameters" 
+![manageParameters](https://github.com/shbxio/CAP/assets/43991954/965f6d23-1826-4bf7-b175-9466b94d44db)
 
-**4.** Here is how you can find the instance URL of your Power Apps environment:
+**4.** Under "Current Value", enter the instance URL of your Power Apps environment and you will need to log in with your Power Apps account. After that press "OK".
+![manageParameter](https://github.com/shbxio/CAP/assets/43991954/9d4f81e5-2994-4861-b3e8-d630014bc037)
+
+**5.** Here is how you can find the instance URL of your Power Apps environment:
 ![value](https://github.com/shbxio/CAP/assets/43991954/86e2bd0e-a7db-490b-a780-e6f631373c19)
 
-**5.** Then press "Apply changes".
-![applyChanges2](https://github.com/shbxio/CAP/assets/43991954/63d8a6df-e790-46d2-b181-0c9a1e999d3c)
+**6.** After logging in, the popup window should automatically refresh. If it does not, you can do this manually at "Refresh Preview". 
+![refresh](https://github.com/shbxio/CAP/assets/43991954/4e8f4c1d-be06-4084-aa32-5c054abebdb5)
 
-**6.** Then a pop-up window should appear. Select "Organization account" and press "Sign in". Make sure that under "Select which level these settings should apply to" and press "Connect" accordingly.
-![odataFeedSignInThenConnect3](https://github.com/shbxio/CAP/assets/43991954/4e7330b6-c18b-4b03-941c-02a0515dde1f)
+**7.** After the data has been successfully transferred, you need to click on "Close & Apply" in the upper left corner so that the data is visualized in a graphical form. This will automatically close the popup window. 
+![closeApply](https://github.com/shbxio/CAP/assets/43991954/7f6da884-ffd4-4496-a3a5-d8f148e74ca8)
 
-**7.** The Power BI Desktop should then automatically refresh and you should be able to see our charts. After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive".
+**8.** Either the Power BI Desktop will automatically refresh and the charts will be displayed or you will need to do this manually. You can do this under "Refresh". 
+![refresh2](https://github.com/shbxio/CAP/assets/43991954/ddcaed36-a7a0-4a25-bb03-43c386a2136c)
+
+**9.** After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive".
 ![publish4](https://github.com/shbxio/CAP/assets/43991954/d26b6d06-5ba0-430b-acb8-4397ae3283a7)
 <br />
 <br />
@@ -90,51 +96,3 @@
 **7.** Then press "Play", which will run the app in a new tab. <br />
 ![playDemo](https://github.com/shbxio/CAP/assets/43991954/9d6630ed-78f5-402d-a8b6-f73c308a9f77)
 
-
-
-
-**4.** First, you need to download the Power BI Desktop to your PC. You can use the following link: https://www.microsoft.com/en-us/download/details.aspx?id=58494 
-
-
-**2.** Then you should open the file "SHBX_GDS_V2_Garage.pbix" with Power BI Desktop. You can find the file in the "Data" directory in the Opensource GitHub project "CAP".   
-
-
-**3.** The next step would be to transfer the data stored in Dataverse to PBI Desktop and update it. To do this, you first need to click on "Transform data" and a new popup window will appear.  
-
-   ![transformData](https://github.com/shbxio/CAP/assets/43991954/8efe444c-ae0a-4a4b-b88b-f7065402b7ee)
-
-<br /> <br />
-
-   **3.1.** At the top at "Manage Parameters" you need to log in with your Power Apps account so that PBI Desktop knows exactly which account to transfer the data from the Dataverse.
-   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![manageParameters](https://github.com/shbxio/CAP/assets/43991954/965f6d23-1826-4bf7-b175-9466b94d44db)
-
-<br /> <br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![manageParametersValue](https://github.com/shbxio/CAP/assets/43991954/73f54926-01b8-4482-af3d-805d514faae9)
-
-<br /> <br />
-
-   **3.2.** To connect, you need to enter the URL of your PowerApps account in the "Current Value" field. Here is how you can find the URL in your PowerApps account:
-    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![value](https://github.com/shbxio/CAP/assets/43991954/86e2bd0e-a7db-490b-a780-e6f631373c19)
-
-<br /> <br /> 
-
-**4.** After logging in, the popup window should automatically refresh. If it does not, you can do this manually at "Refresh Preview". 
-
-   ![refresh](https://github.com/shbxio/CAP/assets/43991954/4e8f4c1d-be06-4084-aa32-5c054abebdb5)
-
-<br /> <br /> 
-
-**5.** After the data has been successfully transferred, you need to click on "Close & Apply" in the upper left corner so that the data is visualized in a graphical form. This will automatically close the popup window. 
-
-   ![closeApply](https://github.com/shbxio/CAP/assets/43991954/7f6da884-ffd4-4496-a3a5-d8f148e74ca8)
-
-<br /> 
-
-**6.** Either the Power BI Desktop will automatically refresh and the charts will be displayed or you will need to do this manually. You can do this under "Refresh". 
-
-   ![refresh2](https://github.com/shbxio/CAP/assets/43991954/ddcaed36-a7a0-4a25-bb03-43c386a2136c)
-
-<br /> 
