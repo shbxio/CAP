@@ -71,7 +71,9 @@ These three tables will be automatically created with the demo you uploaded usin
 **6.** Then you should automatically go to the next page where you select "Table1" and press "Next" at the bottom right. <br />
 ![chooseTable](https://github.com/shbxio/CAP/assets/43991954/0a138a71-611e-4b5c-b0b6-e6611db32a0a)
 
-**7.** Then you will be redirected to an Excel window where you press "Next" again.
+**7.** Then you will be redirected to an Excel window where you press "Next" again. 
+Then you will be redirected to an Excel window. In the column "CO2e Emission" you will see that the values of this column are "Whole number". You will see a symbol like this: "123" on the left side of the column name "CO2e Emission". You should change it to "Decimal number". Select the icon on the left side of the column and chose "Decimal number". A pop-up window will appear where you should click on "Replace current". Then click "Next" in the lower right corner. <br>
+![excelWorldRegion](https://github.com/shbxio/CAP/assets/43991954/4f502834-f118-47c4-bcee-781d2f5be727)
     
 **8.** A new page will then appear where you select "Load into existing table". Then press the "Destination table" dropdown button and select the "shbx_WorldRegion" table. On the right side, under "Source column" you should select the correct columns for the corresponding "Destination column". In the image below you can see how it should look like.
 ![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/ab0e44e9-0fff-4941-9f22-15ffbe17cda6)
