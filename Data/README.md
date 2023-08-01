@@ -32,6 +32,8 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 <br />
 <br />
 
+# 
+
 ### **`Organizational hierarchy`**
 
 **7.** When you are done, go back to the "Table" and enter "Organizational hierarchy" in the search box and open the relevant table.
