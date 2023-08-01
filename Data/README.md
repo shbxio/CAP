@@ -11,11 +11,11 @@ In the first part of the documentation you will learn how to edit the organizati
 **2.** Then navigate to "Tables" found on the left side and click "All" at the top.
 
 **3.** In the search box, type "Organizational profile" and open the relevant table.
-  ![orgaProfile](https://github.com/shbxio/CAP/assets/43991954/f1b3530a-9a3a-408b-ab7b-5095c7278f88)
+  ![orgaProfile](https://github.com/shbxio/CAP/assets/43991954/39ea86d8-e7dd-4f61-a5b3-3ed5d4bdcf97)
 
 **4.** You should only find one demo entry in the table in this case, which was automatically added when you installed MSM Demo Data. Change the entry to "Contoso Automotive" by simply clicking on the first cell of the first column and row. Note that you should not delete the entry but just rewrite it. <br />
 If the "Reporting start day (Internal)" and "Reporting start month (Internal)" columns are blank, then enter the entries you can see in the image below, so that the first row looks exactly like the image below.
-  ![orgaProfileTab](https://github.com/shbxio/CAP/assets/43991954/038cf34f-60d9-41a1-aaeb-81b097663aaf)
+  ![orgaProfileTab](https://github.com/shbxio/CAP/assets/43991954/68e9d293-98b5-41e4-8490-d191d1d5c8e9)
 <br />
 <br />
 <br />
@@ -27,7 +27,7 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 **5.** When you are done, go back to the "Table" and enter "Organizational unit" in the search box and open the relevant table.
 
 **6.** Here the same step occurs as before. Note also here that you do not delete the entry but only rewrite it. Here you should only rewrite the entries of the first three columns, i.e. "Name", "Organizational unit type" and "Description". The correct entries can be found in the image below. The "Description" column contains the following text: "Demo data or other examples are for illustration purposes only and are fictitious. No real association is intended or inferred."
-  ![unitsTab](https://github.com/shbxio/CAP/assets/43991954/fe9c3a39-21b0-4416-bcf3-76e9228c9b9f)
+  ![unitsTab](https://github.com/shbxio/CAP/assets/43991954/3a173e78-aade-4dbc-aedd-c73671febbde)
 <br />
 <br />
 <br />
@@ -39,7 +39,7 @@ If the "Reporting start day (Internal)" and "Reporting start month (Internal)" c
 **7.** When you are done, go back to the "Table" and enter "Organizational hierarchy" in the search box and open the relevant table.
 
 **8.** Here the same step occurs as before. Note that you should not delete the entry, but only rewrite it. Here you should rewrite only the entries of the first three columns, i.e. "Organizational unit", "Parent" and "Effective start date". The correct entries can be found in the image below.
-  ![orgaHierTab](https://github.com/shbxio/CAP/assets/43991954/b76ac2df-7d4f-4c9b-9c88-71c8e6b4e56d)
+  ![orgaHierTab](https://github.com/shbxio/CAP/assets/43991954/33a9d188-93ba-4e6a-acb7-f6d0e4b90dd9)
 <br />
 <br />
 <br />
@@ -103,10 +103,10 @@ These three tables will be automatically created with the demo you uploaded usin
 **2.** Now you need to upload the Excel file "Levers". Follow the same steps as for the "World Region".
 
 **3.** Then, when you land on the "Map tables" page, you should adjust it so that it looks exactly like the following image.
-![mapTableLevers](https://github.com/shbxio/CAP/assets/43991954/a8a00500-b3ea-47ad-99e2-85a2f5d956d8)
+![mapTableLevers](https://github.com/shbxio/CAP/assets/43991954/0adb56c4-df1a-4443-ba59-0db4d5639224)
 
 **4.** Then you should see the entries in the table.
-![leversEntries](https://github.com/shbxio/CAP/assets/43991954/639ccf82-26fc-4bf6-bdd4-f6c0d60979a2)
+![leversEntries](https://github.com/shbxio/CAP/assets/43991954/ae0c6951-5393-4579-83ff-af7ad271143e)
 
 **5.** After that press "Keys".
 
@@ -114,7 +114,7 @@ These three tables will be automatically created with the demo you uploaded usin
 
 **7.** Fill the relevant input fields, as in the image below, and then press "Save".
 <br>
-![keyLevers](https://github.com/shbxio/CAP/assets/43991954/5a9c370d-7dda-45b7-a44b-b37e808426ab)
+![keyLevers](https://github.com/shbxio/CAP/assets/43991954/bee50f47-38e8-4a49-82ca-0c131b69cb7d)
 <br />
 <br />
 <br />
@@ -128,8 +128,10 @@ These three tables will be automatically created with the demo you uploaded usin
 **2.** Now you need to upload the Excel file "CAP Emissions". Follow the same steps as for the "World Region" or "Lever".
 
 **3.** Then, when you land on the "Map tables" page, you should adjust it so that it looks exactly like the following image.
-![capEmissionsTab1](https://github.com/shbxio/CAP/assets/43991954/7b0601b1-0e4a-46d9-ba17-8535e6b6045c)
-![capEmissionsTab2](https://github.com/shbxio/CAP/assets/43991954/207ecdae-4a5b-49c8-9b3b-bf3e8f2cb93c)
+![capEmissionsTab1](https://github.com/shbxio/CAP/assets/43991954/d207bbe7-a83b-44c9-8319-93c2b2369b46)
+![capEmissionsTab2](https://github.com/shbxio/CAP/assets/43991954/0f8d1a64-e9be-4a99-b358-eeadc493642e)
+
+
 
 **4.** Since there are multiple columns and over 1000 rows, I can't take a screenshot of what the table should look like. But once you see the entries in the table, the data should have been uploaded without any problems.
 
