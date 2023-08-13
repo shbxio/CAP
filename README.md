@@ -13,6 +13,6 @@ Thank you for visiting and supporting this project. Together, we can make a sign
 
 ![cap](https://github.com/shbxio/CAP/assets/43991954/3f04ccd0-961c-43c4-a179-81643fe141be)
 
-## **`Explore Our Power BI Report`**
+### **`Explore Our Power BI Report`**
 
 We have provided a link to our Power BI report so that users can click the link to access the report externally. Although the embedded demo is not directly visible on the GitHub Readme, this approach still allows users to access our [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiYzlkNjQ2NmYtNmY3ZS00NjE3LTkwNzEtNzMyNmRjNmJlYjM4IiwidCI6ImFlNDg5ZThjLWVjYjktNDdlMi1hNGRlLWIxOWNlYzhkZGViNiIsImMiOjl9) with a single click.
