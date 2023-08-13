@@ -67,5 +67,6 @@ data:
 - Finally, in the terminal, enter the path to the "pp_installation.ps1" file. For example: **`. 'C:\Users\yourname\Desktop\ALM-Guthub\pp_installation.ps1'`**
 <br><br>
 
-**6.** The Powerhell script will run automatically, and a pop-up window appears in which you must enter your login information, including the environment that you specified in the configs.json file.
+**6.** The Powerhell script will run automatically, and a pop-up window appears in which you must enter your login information, including the environment that you specified in the configs.json file. <br><br> <br><br>
 
+**Note:** Please note that you may need to run the script several times if errors occur. If the script successfully uploads our demo, you will not see an error message and a success message will be displayed in the terminal.
