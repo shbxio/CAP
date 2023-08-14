@@ -30,16 +30,22 @@
 **5.** Here is how you can find the instance URL of your Power Apps environment: <br />
 ![value](https://github.com/shbxio/CAP/assets/43991954/86e2bd0e-a7db-490b-a780-e6f631373c19)
 
-**6.** After logging in, the popup window should automatically refresh. If it does not, you can do this manually at "Refresh Preview". <br />
+**6.** Then press on "CAP Emission" and select "Edit Credentials": <br />
+![editCredentials](https://github.com/shbxio/CAP/assets/43991954/5af034ce-b980-493b-8771-6d4062f25d00)
+
+**7.** Then another pop-up window will appear where you should select "Organizational account" and click "Sign in": <br />
+![signIn](https://github.com/shbxio/CAP/assets/43991954/986053f5-1ecb-4d00-aedf-76ba91863a88)
+
+**8.** After logging in, the popup window should automatically refresh. If it does not, you can do this manually at "Refresh Preview". <br />
 ![refresh](https://github.com/shbxio/CAP/assets/43991954/4e8f4c1d-be06-4084-aa32-5c054abebdb5)
 
-**7.** After the data has been successfully transferred, you need to click on "Close & Apply" in the upper left corner so that the data is visualized in a graphical form. This will automatically close the popup window. <br /> 
+**9.** After the data has been successfully transferred, you need to click on "Close & Apply" in the upper left corner so that the data is visualized in a graphical form. This will automatically close the popup window. <br /> 
 ![closeApply](https://github.com/shbxio/CAP/assets/43991954/7f6da884-ffd4-4496-a3a5-d8f148e74ca8)
 
-**8.** Either the Power BI Desktop will automatically refresh and the charts will be displayed or you will need to do this manually. You can do this under "Refresh". <br />
+**10.** Either the Power BI Desktop will automatically refresh and the charts will be displayed or you will need to do this manually. You can do this under "Refresh". <br />
 ![refresh2](https://github.com/shbxio/CAP/assets/43991954/ddcaed36-a7a0-4a25-bb03-43c386a2136c)
 
-**9.** After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive". <br />
+**11.** After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive". <br />
 ![publish4](https://github.com/shbxio/CAP/assets/43991954/d26b6d06-5ba0-430b-acb8-4397ae3283a7)
 <br />
 <br />
