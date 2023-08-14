@@ -71,9 +71,7 @@ These three tables will be automatically created with the demo you uploaded usin
 **6.** Then you should automatically go to the next page where you select "Table1" and press "Next" at the bottom right. <br />
 ![chooseTable](https://github.com/shbxio/CAP/assets/43991954/0a138a71-611e-4b5c-b0b6-e6611db32a0a)
 
-**7.** Then you will be redirected to an Excel window where you press "Next" again. 
-Then you will be redirected to an Excel window. In the column "CO2e Emission" you will see that the values of this column are "Whole number". You will see a symbol like this: "123" on the left side of the column name "CO2e Emission". You should change it to "Decimal number". Select the icon on the left side of the column and chose "Decimal number". A pop-up window will appear where you should click on "Replace current". Then click "Next" in the lower right corner. <br>
-![excelWorldRegion](https://github.com/shbxio/CAP/assets/43991954/4f502834-f118-47c4-bcee-781d2f5be727)
+**7.** Then you will be redirected to an Excel window where you press "Next" again.
     
 **8.** A new page will then appear where you select "Load into existing table". Then press the "Destination table" dropdown button and select the "shbx_WorldRegion" table. On the right side, under "Source column" you should select the correct columns for the corresponding "Destination column". In the image below you can see how it should look like.
 ![mapTableWorld](https://github.com/shbxio/CAP/assets/43991954/ab0e44e9-0fff-4941-9f22-15ffbe17cda6)
@@ -129,12 +127,12 @@ Then you will be redirected to an Excel window. In the column "CO2e Emission" yo
 
 **2.** Now you need to upload the Excel file "CAP Emissions". Follow the same steps as for the "World Region" or "Lever".
 
-**3.** Then, when you land on the "Map tables" page, you should adjust it so that it looks exactly like the following image.
+**3.** Then you will be redirected to an Excel window. In the column "CO2e Emission" you will see that the values of this column are "Whole number". You will see a symbol like this: "123" on the left side of the column name "CO2e Emission". You should change it to "Decimal number". Select the icon on the left side of the column and chose "Decimal number". A pop-up window will appear where you should click on "Replace current". Then click "Next" in the lower right corner. <br>
+![excelWorldRegion](https://github.com/shbxio/CAP/assets/43991954/4f502834-f118-47c4-bcee-781d2f5be727)
+
+**4.** Then, when you land on the "Map tables" page, you should adjust it so that it looks exactly like the following image.
 ![capEmissionsTab1](https://github.com/shbxio/CAP/assets/43991954/d207bbe7-a83b-44c9-8319-93c2b2369b46)
 ![capEmissionsTab2](https://github.com/shbxio/CAP/assets/43991954/0f8d1a64-e9be-4a99-b358-eeadc493642e)
 
-
-
-**4.** Since there are multiple columns and over 1000 rows, I can't take a screenshot of what the table should look like. But once you see the entries in the table, the data should have been uploaded without any problems.
-
+**5.** Since there are multiple columns and over 1000 rows, I can't take a screenshot of what the table should look like. But once you see the entries in the table, the data should have been uploaded without any problems.
 
