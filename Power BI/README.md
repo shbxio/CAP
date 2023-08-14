@@ -99,6 +99,7 @@
 **6.** Then, select "World Regions view". On the right side under "Settings" you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
 ![World Region](https://github.com/shbxio/CAP/assets/43991954/4dfa8a13-9ad4-41c8-a602-b731658b9388)
 
-**7.** Then press "Play", which will run the app in a new tab. <br />
-![playDemo](https://github.com/shbxio/CAP/assets/43991954/9d6630ed-78f5-402d-a8b6-f73c308a9f77)
+**7.** Then press "Publish" first and then "Play", which will run the app in a new tab. <br />
+![playDemo](https://github.com/shbxio/CAP/assets/43991954/d7973d9c-0b4a-4200-a33d-4dd1c4d810a1)
+
 
