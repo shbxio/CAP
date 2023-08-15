@@ -32,9 +32,6 @@ Power BI Desktop is a free Windows application developed by Microsoft as part of
 **`6. Download Visual Studio Code`** <br />
 Installing an IDE is necessary to run our script and install plugins. In our project we used Visual Studio Code, so we recommend users to use it as well and follow our documentation in [Application lifecycle management](https://github.com/shbxio/CAP/tree/main/Application%20lifecycle%20management). From the following [link](https://code.visualstudio.com/download) you can download Visual Studio Code.
 
-**`7. Excel`** <br />
-In our project we used Excel to import or export data from the DataVerse, so we recommend users to use Excel as well. From the following [link](https://www.microsoft.com/en-us/microsoft-365/excel) you can download Excel.
-
 <br /> 
 <br /> 
 
