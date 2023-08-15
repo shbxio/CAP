@@ -13,15 +13,11 @@ Thank you for visiting and supporting this project. Together, we can make a sign
 
 ![CAP-Reoprt-Pages](https://github.com/shbxio/CAP/assets/43991954/37f91758-3412-4114-be31-97a429f86c04)
 
-<br />
-
 # 
 
 ### **`Explore Our Power BI Report`**
 
 We have provided a link to our Power BI report so that users can click the link to access the report externally. Although the embedded demo is not directly visible on the GitHub Readme, this approach still allows users to access our [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiYzlkNjQ2NmYtNmY3ZS00NjE3LTkwNzEtNzMyNmRjNmJlYjM4IiwidCI6ImFlNDg5ZThjLWVjYjktNDdlMi1hNGRlLWIxOWNlYzhkZGViNiIsImMiOjl9) with a single click.
-
-<br />
 
 # 
 
