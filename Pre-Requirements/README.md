@@ -10,7 +10,7 @@ Just for your information, creating a new environment in Power Apps is not free.
 Power BI is a business analytics tool that allows users to visualize and analyze data from various sources through interactive reports and dashboards. You can find out more at the following [link](https://powerbi.microsoft.com/en-us/power-bi-pro/).
 
 **`3. Microsoft Sustainability Manager`** <br />
-Integrating data intelligence, Microsoft's Sustainability Manager is an automated and comprehensive solution designed to support organizations in their sustainability development at any stage. With its extensible capabilities, it unifies sustainability management in a unique way.
+Microsoft Sustainability Manager is an automated and comprehensive solution designed to support organizations in their sustainability development at any stage. With its extensible capabilities, it unifies sustainability management in a unique way.
 You can find out more at the following [link](https://learn.microsoft.com/en-us/industry/sustainability/sustainability-manager-overview).
 <br />
 Unfortunately, Microsoft Sustainability Manager is not free, but there is an offer for a free 30-day trial. You can find out more at the following [link](https://learn.microsoft.com/en-us/industry/sustainability/trial-setup).
