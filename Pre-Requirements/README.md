@@ -3,7 +3,7 @@
 ## Pre-requirements:
 
 **`1. Create an environment in Power Apps`** <br />
-Power Apps is a low-code development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/). <br />
+Power Apps is a development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/). <br />
 Just for your information, creating a new environment in Power Apps is not free. The following [link](https://www.c-sharpcorner.com/article/how-to-create-a-new-environment-in-power-apps/) describes how to create a new environment.
 
 **`2. Create workspace in Power BI Pro`** <br />
