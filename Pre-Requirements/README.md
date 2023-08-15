@@ -1,6 +1,6 @@
 # In this documentation you will learn which requirements you have to meet in order to use our demo and in which order you should follow the documentation.
 
-**Pre-requirements:** 
+## Pre-requirements:
 
 **`1. Create an environment in Power Apps`** <br />
 Power Apps is a low-code development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/). <br />
@@ -24,7 +24,7 @@ Installing an IDE is necessary to run our script and install plugins. In our pro
 <br /> 
 <br /> 
 
-**Order of documentation:** 
+## Order of documentation:
 
 Please follow the order below from top to bottom.
 
