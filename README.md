@@ -12,7 +12,11 @@ If you want to know more or have any questions, feel free to check out our YouTu
 Thank you for visiting and supporting this project. Together, we can make a significant impact on our planet's future. Let's create something great together!
 
 ![CAP-Reoprt-Pages](https://github.com/shbxio/CAP/assets/43991954/37f91758-3412-4114-be31-97a429f86c04)
+<br />
+<br />
+<br />
 
+# 
 
 ### **`Explore Our Power BI Report`**
 
