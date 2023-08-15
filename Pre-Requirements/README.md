@@ -17,8 +17,8 @@ You can find out more at the following [link](https://powerplatform.microsoft.co
 Power Apps is a low-code development platform that enables both professional developers and non-developers to quickly and easily create custom web and mobile apps. You can find out more at the following [link](https://powerapps.microsoft.com/en-gb/). <br />
 Just for your information, creating a new environment in Power Apps is not free. The following [link](https://www.c-sharpcorner.com/article/how-to-create-a-new-environment-in-power-apps/) describes how to create a new environment.
 
-**`3. Create workspace in Power BI`** <br />
-Power BI is a business analytics tool that allows users to visualize and analyze data from various sources through interactive reports and dashboards. You can find out more at the following [link](https://powerbi.microsoft.com/de-de/landing/free-account/?ef_id=_k_Cj0KCQjwn_OlBhDhARIsAG2y6zPWj-yRr9TRg51Df2qz9ygW7SvoVWHYkmqB3k057Ah0I8nKYoECR6caAp1uEALw_wcB_k_&OCID=AIDcmmvl5fszm6_SEM__k_Cj0KCQjwn_OlBhDhARIsAG2y6zPWj-yRr9TRg51Df2qz9ygW7SvoVWHYkmqB3k057Ah0I8nKYoECR6caAp1uEALw_wcB_k_&gclid=Cj0KCQjwn_OlBhDhARIsAG2y6zPWj-yRr9TRg51Df2qz9ygW7SvoVWHYkmqB3k057Ah0I8nKYoECR6caAp1uEALw_wcB).
+**`3. Create workspace in Power BI Pro`** <br />
+Power BI is a business analytics tool that allows users to visualize and analyze data from various sources through interactive reports and dashboards. You can find out more at the following [link](https://powerbi.microsoft.com/en-us/power-bi-pro/).
 
 **`4. Microsoft Sustainability Manager license`** <br />
 Microsoft Sustainability Manager is an extensible solution that unifies data intelligence and provides comprehensive, integrated and automated sustainability management for organizations at every stage of their sustainability development.
