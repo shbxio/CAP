@@ -10,26 +10,26 @@ Please note that you must first fulfill three pre-requirements, which are also d
 In this section, you will learn how to install Microsoft Sustainability Manager (MSM) from the Admin Center.
 
 **1.** First, log in to [Power Apps](https://make.powerapps.com/) and select the "Admin Center" option under the Settings icon. <br />
-![adminCenter](https://github.com/shbxio/CAP/assets/43991954/03805f13-8547-457d-bb5e-cc16c677952e)
+![adminCenter](https://github.com/shbxio/CAP/assets/43991954/c70894b7-3ba7-441f-bfab-de6c1542d5cd)
 
 **2.** Then navigate to "Environments" which you can see on the left side. You should see your newly created environment there. From there, select your environment. For example, in our project it was called "OpenSource Test". <br />
 
 **3.** Then click on the "Resources" dropdown button and select "Dynamics 365 apps". <br />
-![Dynamics365](https://github.com/shbxio/CAP/assets/43991954/1baa4d28-87b7-4b22-93fd-c679116e1d6b)
+![Dynamics365](https://github.com/shbxio/CAP/assets/43991954/28039858-9853-4cdf-b792-00a0ef84e3e4)
 
 **4.** Then press "Install App" at the top so that a popout window appears on the right side. <br />
-![installApp](https://github.com/shbxio/CAP/assets/43991954/c0da1a80-e366-4990-b1f1-79b3c87e8bbe)
+![installApp](https://github.com/shbxio/CAP/assets/43991954/36a1997f-5eec-4158-bb45-5e5f7cf037bc)
 
 **5.** There you should search for "Microsoft Sustainability Manager". Please note that you also need to install "Microsoft Sustainability Manager Demo Data". This will allow to create an organizational hierarchy, which we will be editing later. You can't install both apps at the same time, so you need to install them separately. Once you have accepted the terms of use, you can install MSM / MSM Demo Data. <br /> <br />
 For those who will use the 30-day free trial of Microsoft Sustainability Manager, the name of the app you will see here is "Microsoft Sustainability Manager Trial" and you do not need to install the "Microsoft Sustainability Manager Demo Data", as the demo data will be installed automatically in this case. <br />
-![MSMNext](https://github.com/shbxio/CAP/assets/43991954/fd3f278e-ff8e-4185-8f5f-0ebe532f714d)
+![MSMNext](https://github.com/shbxio/CAP/assets/43991954/426e74bc-53f6-464a-a2ce-8b1fa27c52e0)
 <br />
 <br />
 
 ## Install necessary extensions
 First of all, running the script requires extensions that you need to install in Visual Studio Code. To do this, press the "Extensions" icon, which you can find on the left side, and look for "Power Platform Tools" and "PowerShell" in the search icon. You will need to install these two extensions. <br /> <br />
-![powerPlatformTools](https://github.com/shbxio/CAP/assets/43991954/f9ac37db-ae9a-46ca-9e77-af85966d656a)
-![powershell](https://github.com/shbxio/CAP/assets/43991954/0dd35c2d-6afe-4055-bb13-a57cf0b7cda4)
+![powerPlatformTools](https://github.com/shbxio/CAP/assets/43991954/37b77527-5e2f-4ef1-a5bf-8d4acc703a0e)
+![powershell](https://github.com/shbxio/CAP/assets/43991954/b4d1789f-65c8-47c8-afb0-602210bd5721)
 <br />
 <br />
 
@@ -49,11 +49,11 @@ data:
 
 - **"name":** The variable "name" contains the name of the environment. It can be found in the Power Apps. In the second image below you can see how to select your environment. If the name of your environment consists of several words, you must enter them together without spaces in the "name" variable. Example: Your environment was named "CAP Environment", then the "name" variable should contain "CAPEnvironment".
 
-  ![configs_id_name](https://github.com/shbxio/CAP/assets/43991954/70054873-a0d6-4179-b7eb-6e9afa26fc66)
+  ![configs_id_name](https://github.com/shbxio/CAP/assets/43991954/aac467db-3534-4fce-9a44-10b009f3e6ce)
 
   Please note that each environment has its own "id". So first select your environment and enter the name in the variable "name". Then determine the ID for the selected environment and store it in the "id" variable.
 
-  ![idandenv](https://github.com/shbxio/CAP/assets/43991954/e63c8d7e-7d87-4110-a769-7fa5cca791f0)
+  ![idandenv](https://github.com/shbxio/CAP/assets/43991954/53011a13-32c7-42a0-ace2-cbcb800b781e)
 <br>
 
 **3.** Install [Node.js](https://nodejs.org/en/download)
@@ -65,7 +65,7 @@ data:
 - Then open the project via an IDE (for example Visual Studio Code).
 - To do this, go to the terminal in Visual Studio Code and navigate until you are in the "Application Lifecycle Management" directory. For example: **`cd '.\Application Lifecycle Management'`**
 - Finally, in the terminal, enter the path to the "pp_installation.ps1" file. For example: **`. 'C:\Users\yourname\Desktop\ALM-Guthub\pp_installation.ps1'`**
-<br><br>
+<br>
 
 **6.** The Powerhell script will run automatically, and a pop-up window appears in which you must enter your login information, including the environment that you specified in the configs.json file. <br><br> <br><br>
 
