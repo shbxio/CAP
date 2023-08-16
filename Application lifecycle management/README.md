@@ -3,7 +3,7 @@
 Please note that you must first fulfill three pre-requirements, which are also documented in the [Pre-requirements](https://github.com/shbxio/CAP/tree/main/Pre-Requirements) folder, in order to follow this documentation. The pre-requirements for this documentation are: 
 1. An already created environment in [Power Apps](https://make.powerapps.com/)
 2. Downloading [Visual Studio Code](https://code.visualstudio.com/download)
-3. Microsoft Sustainability Manager license
+3. Microsoft Sustainability Manager
 <br />
 
 ## Install Microsoft Sustainability Manager
