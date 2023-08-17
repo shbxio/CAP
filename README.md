@@ -23,10 +23,10 @@ We have provided a link to our Power BI report so that users can click the link 
 
 ### **`Pre-Requirements`**
 
-1. Create an environment in Power Apps (#### **`Estimated duration of completion: 5 Minutes`**)
-2. Create workspace in Power BI Pro (#### **`Estimated duration of completion: 5 Minutes`**)
-3. Microsoft Sustainability Manager (#### **`Estimated duration of completion: 5 Minutes`**)
-4. Download Power BI Desktop (#### **`Estimated duration of completion: 5 - 10 Minutes`**)
-5. Download Visual Studio Code (#### **`Estimated duration of completion: 5 - 10 Minutes`**)
+1. Create an environment in Power Apps (**`Estimated duration of completion: 5 Minutes`**)
+2. Create workspace in Power BI Pro (**`Estimated duration of completion: 5 Minutes`**)
+3. Microsoft Sustainability Manager (**`Estimated duration of completion: 5 Minutes`**)
+4. Download Power BI Desktop (**`Estimated duration of completion: 5 - 10 Minutes`**)
+5. Download Visual Studio Code (**`Estimated duration of completion: 5 - 10 Minutes`**)
 
 More information about the pre-requirements are documented [here](https://github.com/shbxio/CAP/tree/main/Pre-Requirements)
