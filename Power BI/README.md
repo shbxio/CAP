@@ -87,21 +87,21 @@
 **1.** First, log in to [Power Apps](https://make.powerapps.com/).
 
 **2.** Go to "Apps", press the three dots of the "Contoso Automotive" app and select "Edit". <br />
-![appPlay](https://github.com/shbxio/CAP/assets/43991954/07c33201-4ea6-4386-80f8-afb837ab7fff)
+![appPlay](https://github.com/shbxio/CAP/assets/43991954/9f45fd1a-5899-4a22-9b2b-18b3c9658f0a)
 
 **3.** Then you will be automatically redirected to another page, which should look like the image below on the left. As you can see, I have marked three pages. Remember these three, because you will select them in the next steps. <br />
-![pages](https://github.com/shbxio/CAP/assets/43991954/b301e017-e810-4b7a-80a8-f8ee3f62a24a)
+![pages](https://github.com/shbxio/CAP/assets/43991954/e587354e-e155-4009-ad91-148fb522eebe)
 
 **4.** First, select "CAP Report". On the right side you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
-![Cap-Report](https://github.com/shbxio/CAP/assets/43991954/dc66c86b-a455-4ae5-a2aa-4b5bcf2acc1e)
+![Cap-Report](https://github.com/shbxio/CAP/assets/43991954/4b9f996d-5315-45f1-8878-8435641ec334)
 
 **5.** Then, select "Levers view". On the right side under "Settings" you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
-![Levers](https://github.com/shbxio/CAP/assets/43991954/6079bedb-286c-4dfc-b000-916f3b94f878)
+![Levers](https://github.com/shbxio/CAP/assets/43991954/bde6b969-6f36-484f-84a5-46388f1cdaef)
 
 **6.** Then, select "World Regions view". On the right side under "Settings" you will see some options that you need to adjust. Select the correct option as you can see in the image below. <br />
-![World Region](https://github.com/shbxio/CAP/assets/43991954/4dfa8a13-9ad4-41c8-a602-b731658b9388)
+![World Region](https://github.com/shbxio/CAP/assets/43991954/ba4f408c-a738-4da5-b887-038726bc3300)
 
 **7.** Then press "Publish" first and then "Play", which will run the app in a new tab. <br />
-![playDemo](https://github.com/shbxio/CAP/assets/43991954/d7973d9c-0b4a-4200-a33d-4dd1c4d810a1)
+![playDemo](https://github.com/shbxio/CAP/assets/43991954/9a1c6dde-fbae-42ec-8f38-d4384ec51f9c)
 
 
