@@ -77,7 +77,7 @@
 ![capReportEdit](https://github.com/shbxio/CAP/assets/43991954/a2013069-936c-41ae-91f1-08290e9a46c6)
 
 **4.** A pop-up window will appear where you need to enter the name "CAP Report", select the type "Power BI report", chose the correct workspace under "Power BI workspace" and finally select the report "CAP-Report". <br />
-![capReportEdit](https://github.com/shbxio/CAP/assets/43991954/af93bc91-221a-4796-9f86-b0fc0bc86a35)
+![capReportFinal](https://github.com/shbxio/CAP/assets/43991954/84e0e296-0c20-42bb-be97-987593ece46e)
 <br />
 <br />
 <br />
