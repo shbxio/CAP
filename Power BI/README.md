@@ -1,5 +1,7 @@
 # In this documentation you will learn how to visualize the data stored in the Dataverse
 
+#### **`(Estimated duration of completion: 40 Minutes)`**
+
 ### **`Create Workspace in Power BI`**
 
 **1.** First, log in to [Power BI](https://app.powerbi.com/) with your Power Apps account.
