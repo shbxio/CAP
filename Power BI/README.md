@@ -7,10 +7,10 @@
 **1.** First, log in to [Power BI](https://app.powerbi.com/) with your Power Apps account.
 
 **2.** Then select "Workspace" on the left side and press "New workspace" <br />
-![workspace1](https://github.com/shbxio/CAP/assets/43991954/e0413f7a-e056-4730-8d14-964ea5ed4d4b)
+![workspace1](https://github.com/shbxio/CAP/assets/43991954/016804fd-fb7c-4eaa-a49b-7aef325194e9)
 
 **3.** The workspace should be named "Opensource CAP - Contoso Automotive" and then press "Apply".
-![workspace2](https://github.com/shbxio/CAP/assets/43991954/e3ce93ab-cebb-467c-9de5-4f0864525906)
+![workspace2](https://github.com/shbxio/CAP/assets/43991954/cb92a5eb-0950-4eeb-8a2e-8748104bc047)
 <br />
 <br />
 <br />
