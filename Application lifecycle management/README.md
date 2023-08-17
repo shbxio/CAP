@@ -69,4 +69,7 @@ data:
 
 **6.** The Powerhell script will run automatically, and a pop-up window appears in which you must enter your login information, including the environment that you specified in the configs.json file. <br><br> <br><br>
 
-**Note:** Please note that you may need to run the script several times if errors occur. If the script successfully uploads our demo, you will not see an error message and a success message will be displayed in the terminal.
+**Note:** Please note that you may need to run the script several times if errors occur. If the script successfully uploads our demo, you will not see an error message and a success message will be displayed in the terminal. Here is an example of what the terminal should look like after successfully running the script.
+
+![result](https://github.com/shbxio/CAP/assets/43991954/649bb8f1-1e4e-438c-8c80-6309c7bda108)
+
