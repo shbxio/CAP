@@ -1,4 +1,4 @@
-# In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script (Estimated duration of completion: 75 Minutes)
+# In this documentation you will learn how to upload our demo to your Power Apps environment using a PowerShell script <br /> (Estimated duration of completion: 75 Minutes)
 
 Please note that you must first fulfill three pre-requirements, which are also documented in the [Pre-requirements](https://github.com/shbxio/CAP/tree/main/Pre-Requirements) folder, in order to follow this documentation. The pre-requirements for this documentation are: 
 1. An already created environment in [Power Apps](https://make.powerapps.com/)
