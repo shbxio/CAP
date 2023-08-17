@@ -58,10 +58,10 @@
 **1.** Open the file "CAP-Report.pbix" with Power BI Desktop and log in with your account.
 
 **2.** Press "Transform data" in the drop-down menu and select "Data source settings". <br />
-![dataSource](https://github.com/shbxio/CAP/assets/43991954/ccc611eb-e39f-49ff-a3ce-f5c9dbb2535b)
+![dataSource](https://github.com/shbxio/CAP/assets/43991954/f14a8df3-0112-4644-9cca-573ede67d041)
 
 **3.** Then a pop-up window should appear. Select the dataset "SHBX_GDS_V2_Garage" from the workspace "Opensource CAP - Contoso Automotive". The Power BI Desktop should then automatically refresh and you should be able to see our charts. After that, click on "Publish" and select the relevant workspace. In our case, that would be "Opensource CAP - Contoso Automotive".
-![dataHub](https://github.com/shbxio/CAP/assets/43991954/99a59f4c-9bb1-46fb-9d57-46a9f6decb7d)
+![dataHub](https://github.com/shbxio/CAP/assets/43991954/8bba928e-fa5a-49bb-8317-95130ae934f7)
 <br />
 <br />
 <br />
@@ -70,14 +70,14 @@
 
 **1.** First, log in to [Power Apps](https://make.powerapps.com/).
 
-**2.** Go to "Solutions" and type "SHBX CAP Module" in the search box.
-![capModuleSolutions](https://github.com/shbxio/CAP/assets/43991954/ba442d9c-2d89-4760-b0ab-da9e515d51f7)
+**2.** Go to "Solutions" and type "SHBX CAP Module" in the search box that you should open.
+![capModuleSolutions](https://github.com/shbxio/CAP/assets/43991954/5679bbad-d6c9-4a5b-aea2-035e718f567b)
 
-**3.** Press the three dots and select "Edit". <br />
-![capModuleSolutionsEdit](https://github.com/shbxio/CAP/assets/43991954/397e962c-5990-4d02-9684-583df1319c0d)
+**3.** Press the three dots "CAP Report" and select "Edit". <br />
+![capReportEdit](https://github.com/shbxio/CAP/assets/43991954/a2013069-936c-41ae-91f1-08290e9a46c6)
 
 **4.** A pop-up window will appear where you need to enter the name "CAP Report", select the type "Power BI report", chose the correct workspace under "Power BI workspace" and finally select the report "CAP-Report". <br />
-![capReportFinal](https://github.com/shbxio/CAP/assets/43991954/756abe1b-7981-480c-a614-244a23767af0)
+![capReportEdit](https://github.com/shbxio/CAP/assets/43991954/af93bc91-221a-4796-9f86-b0fc0bc86a35)
 <br />
 <br />
 <br />
