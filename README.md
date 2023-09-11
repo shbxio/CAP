@@ -11,7 +11,7 @@ If you want to know more or have any questions, feel free to check out our YouTu
 
 Thank you for visiting and supporting this project. Together, we can make a significant impact on our planet's future. Let's create something great together!
 
-![pagesCAPReport1](https://github.com/shbxio/CAP/assets/43991954/97301b2f-4656-4122-bccd-c1a72a981f32)
+![pagesCAPReport1](https://github.com/shbxio/CAP/assets/43991954/98cdee7d-8d96-4f9e-9ba9-8a3083a21beb)
 
 # 
 
