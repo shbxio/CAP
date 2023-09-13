@@ -1,5 +1,5 @@
-# CAP
-This project is an open-source initiative aimed at creating a Climate Action Plan using Power BI, the Power Platform, and Microsoft Sustainability Manager. It's a venture that seeks to harness the power of these tools to address one of the most pressing issues of our time: climate change.
+# Climate Action Plan Extension
+This project is an open-source initiative aimed at creating a Climate Action Plan (CAP) using Power BI, the Power Platform, and Microsoft Sustainability Manager. It's a venture that seeks to harness the power of these tools to address one of the most pressing issues of our time: climate change.
 
 The solution provided here is available for download and can be used for your own purposes. It serves as a click-through demo to understand how the different components work together, or it can be used as a foundation for your own climate action initiatives. It's an excellent opportunity to explore the capabilities of these tools in the context of sustainability and contribute to the open-source community.
 
