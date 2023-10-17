@@ -7,7 +7,7 @@ This project is a work in progress, and I welcome contributions, feedback, and s
 
 I hope this project inspires and motivates you to explore and develop your own ideas for climate action. Remember, every contribution, no matter how small, can make a difference. Let's work together to create a more sustainable and resilient world.
 
-If you want to know more or have any questions, feel free to check out our YouTube channel (https://www.youtube.com/@shbxio) or contact us at alex@shbx.io. We're always happy to engage with our community and answer any questions you might have.
+If you want to know more or have any questions, feel free to check out our YouTube channel (https://www.youtube.com/@shbxio) or contact josef.prothmann@capgemini.com. We're always happy to engage with our community and answer any questions you might have.
 
 Thank you for visiting and supporting this project. Together, we can make a significant impact on our planet's future. Let's create something great together!
 
